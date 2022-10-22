@@ -3,8 +3,14 @@ module.exports = {
   content: ['./src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
+      fontFamily: {
+        inter: 'Inter',
+        interlight: 'Inter-Light',
+        interbold: 'Inter-Bold',
+        interthin: 'Inter-Thin',
+      },
       colors: {
-        'regal-blue': '#7c5295',
+        primary: '#F8F9FD',
       },
     },
   },

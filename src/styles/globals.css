@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Inter';
+    src: url('/assets/fonts/Inter-Regular.woff2') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Inter-Light';
+    font-weight: 500;
+    src: url('/assets/fonts/Inter-Light.woff2') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Inter-Bold';
+    font-weight: 500;
+    src: url('/assets/fonts/Inter-Bold.woff2') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Inter-Thin';
+    font-weight: 500;
+    src: url('/assets/fonts/Inter-Thin.woff2') format('woff2');
+  }
+
+  html{
+    @apply scroll-smooth
+  }
+}
