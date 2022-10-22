@@ -26,7 +26,7 @@
     src: url('/assets/fonts/Inter-Thin.woff2') format('woff2');
   }
 
-  html{
-    @apply scroll-smooth
+  html {
+    @apply scroll-smooth;
   }
 }
