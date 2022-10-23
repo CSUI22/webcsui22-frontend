@@ -5,9 +5,9 @@ import { Instagram } from '@icons'
 
 export const Footer: React.FC = () => {
   return (
-    <div className="flex flex-col px-24 py-8 bg-primary border-[#161616] border-t-2 ">
+    <div className="flex flex-col lg:px-24 px-7 py-5 lg:py-8 bg-primary border-[#161616] border-t-2 ">
       <div className="flex justify-between items-center">
-        <div className="flex gap-28">
+        <div className="flex lg:flex-row flex-col lg:gap-28 gap-4">
           <div className="flex flex-col">
             <h1 className="font-interbold">SOCIALS</h1>
             <div className="flex py-4">
@@ -39,7 +39,7 @@ export const Footer: React.FC = () => {
           imageUrl="/assets/images/logo-csui22.png"
           alt="logo"
           fit="contain"
-          className="w-[67px] h-[70px]"
+          className="w-[67px] h-[70px] hidden lg:flex"
         />
       </div>
 
