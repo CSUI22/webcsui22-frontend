@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
         <div className="flex lg:flex-row flex-col lg:gap-28 gap-4">
           <div className="flex flex-col">
             <h1 className="font-interbold">SOCIALS</h1>
-            <div className="flex py-4">
+            <div className="flex lg:py-4 py-2">
               <div className="flex gap-2">
                 <Instagram size="w-[16px] h-[16px]" className="mt-[1.3px]" />
                 <Link href="https://www.instagram.com/csui.2022/">
@@ -28,7 +28,7 @@ export const Footer: React.FC = () => {
             <h1 className="font-interbold">CREDITS</h1>
             <Link href={'/'}>
               <a>
-                <h2 className="font-inter text-[16px] leading-[19.36px] py-4">
+                <h2 className="font-inter text-[16px] leading-[19.36px] lg:py-4 py-2">
                   Website Developer
                 </h2>
               </a>
