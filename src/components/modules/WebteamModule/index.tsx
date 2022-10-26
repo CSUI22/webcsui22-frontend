@@ -1,16 +1,15 @@
 import React from 'react'
 // import { Imageoptimized } from '@elements'
 import { dataWebDev } from './constant'
-import {AdvancedImage, lazyload} from '@cloudinary/react';
-import {Cloudinary} from "@cloudinary/url-gen";
-import {focusOn} from "@cloudinary/url-gen/qualifiers/gravity";
-import {FocusOn} from "@cloudinary/url-gen/qualifiers/focusOn";
-import {thumbnail} from "@cloudinary/url-gen/actions/resize";
-import {byRadius} from "@cloudinary/url-gen/actions/roundCorners";
-
+import { AdvancedImage, lazyload } from '@cloudinary/react'
+import { Cloudinary } from '@cloudinary/url-gen'
+import { focusOn } from '@cloudinary/url-gen/qualifiers/gravity'
+import { FocusOn } from '@cloudinary/url-gen/qualifiers/focusOn'
+import { thumbnail } from '@cloudinary/url-gen/actions/resize'
+import { byRadius } from '@cloudinary/url-gen/actions/roundCorners'
 
 export const WebteamModule: React.FC = () => {
-  const myCld = new Cloudinary({cloud: {cloudName: 'djj4bzojc'}});
+  const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
   return (
     <div className="container my-12 align-middle mx-auto py-10 px-4">
       <header>
@@ -23,7 +22,19 @@ export const WebteamModule: React.FC = () => {
           <div key={key['id foto']} className="my-1 px-1">
             <article className="overflow-hidden rounded-2xl shadow-xl bg-[#0E1F58] transition ease-in-out delay-150hover:-translate-y-1 hover:scale-110 hover:bg-indigo-900 duration-300">
               <div className="p-4">
-                <AdvancedImage cldImg={myCld.image(key['id foto']).resize(thumbnail().width(700).height(700).gravity(focusOn(FocusOn.face()))).roundCorners(byRadius(40)).format('png')} plugins={[lazyload()]}/>
+                <AdvancedImage
+                  cldImg={myCld
+                    .image(key['id foto'])
+                    .resize(
+                      thumbnail()
+                        .width(700)
+                        .height(700)
+                        .gravity(focusOn(FocusOn.face()))
+                    )
+                    .roundCorners(byRadius(40))
+                    .format('png')}
+                  plugins={[lazyload()]}
+                />
               </div>
               <header className=" pl-4 pb-7 md:px-4">
                 <h1 className="lg:text-base md:text-sm sm:text-xs text-xs text-white">
