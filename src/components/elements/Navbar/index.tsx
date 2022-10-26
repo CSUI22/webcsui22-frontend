@@ -1,33 +1,23 @@
-import React from 'react'
-import { Imageoptimized } from '../Imageoptimized'
-import Link from 'next/link'
-import { tabs } from './constant'
+import React, { useState } from 'react'
+import { Collaps } from './Collaps'
+import { NavbarBody } from './NavbarBody'
+import { NavbarStateProps } from './interface'
 
 export const Navbar: React.FC = () => {
-  return (
-    <div className="w-full bg-[#F8F9FD] flex fixed justify-between items-center py-2 px-24 border-[#161616] border-b-2 z-10">
-      <Link href={'/'}>
-        <a>
-          <Imageoptimized
-            imageUrl={'/assets/images/logo-csui22.png'}
-            alt={'logo'}
-            fit={'contain'}
-            className={'w-[47px] h-[57px]'}
-          />
-        </a>
-      </Link>
+  const [navbarState, setNavbarState] = useState<NavbarStateProps>({
+    isCollapsed: true,
+  })
 
-      <div className="flex gap-28">
-        {tabs.map(({ url, label }, index) => (
-          <Link href={url} key={index}>
-            <a>
-              <div className="font-interlight text-[20px] no-underline hover:underline">
-                {label}
-              </div>
-            </a>
-          </Link>
-        ))}
-      </div>
+  const handleCollapse = () => {
+    setNavbarState((prevState) => ({
+      ...prevState,
+      isCollapsed: !navbarState.isCollapsed,
+    }))
+  }
+  return (
+    <div className="fixed w-full transition-all duration-200 ease-in-out z-20">
+      <NavbarBody {...navbarState} handleCollapse={handleCollapse} />
+      <Collaps {...navbarState} />
     </div>
   )
 }
