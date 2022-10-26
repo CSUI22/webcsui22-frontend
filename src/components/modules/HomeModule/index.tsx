@@ -2,6 +2,7 @@ import React from 'react'
 import { Carousel } from './Carousel'
 import { HeroSection } from './HeroSection'
 import { IntroAngkatanSection } from './IntroAngkatanSection'
+import { WebDevSection } from './WebDevSection'
 
 export const HomeModule: React.FC = () => (
   <>
@@ -9,6 +10,7 @@ export const HomeModule: React.FC = () => (
       <HeroSection />
       <IntroAngkatanSection />
       <Carousel/>
+      <WebDevSection />
     </div>
   </>
 )
