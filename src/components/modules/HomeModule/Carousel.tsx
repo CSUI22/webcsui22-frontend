@@ -1,31 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Imageoptimized } from "@elements";
-
-
-const carouselContents = [
-    {
-        name: "Cafe JPW",
-        imageUrl: "cafejpw.jpg",
-        description: "Gathering pertama kali di Cafe JPW Depok, untuk teman-teman CSUI22 yang masuk dari jalur SNMPTN, PPKB, dan Talent Scouting. Seru sekali bisa bertemu dan mendapatkan banyak teman baru!"
-    },
-    {
-        name: "Foto Bareng",
-        imageUrl: "fotobareng.jpg",
-        description: "Dengan memakai Jaket Kuning kebanggaan akhirnya kita bisa kumpul lengkap selepas rangkaian acara PKKMB dan berfoto didepan gedung Rektorat UI yang ikonik."
-    },
-    {
-        name: "LBM",
-        imageUrl: "lbm.jpg",
-        description: "Selepas mendukung kontingen basket CSUI. Suara kami serak dan badan kami berkeringat karena dengan semangat menyanyikan chants-chants Laskar Biru Merah!"
-    },
-    {
-        name: "Mini Soccer",
-        imageUrl: "minisoccer.jpg",
-        description: "Healing sebentar setelah kuis Kalkulus. Walaupun hujan dan jalanan macet, tidak menyurutkan semangat teman-teman untuk berkumpul dan bermain bola bersama"
-    }
-
-]
-
+import { carouselContents } from "./constant";
 
 export const Carousel: React.FC = () => {
     const TIME_DELAY = 1000
@@ -33,25 +8,27 @@ export const Carousel: React.FC = () => {
     const [activeContent, setActiveContent] = useState(0)
     const [activeButton, setActiveButton] = useState(0)
 
-    // Handle content changing transition
-    const changeContent = (i:number) => {
+    // Handle transition of content changes
+    const changeContent = async(i:number) => {
+        const delay = (time:number) => new Promise(resolve => setTimeout(resolve, time))
         const element: any = document.getElementById("carousel-content")
-        return new Promise((resolve) => {
-                setTimeout(resolve, TIME_DELAY/2)
-                element.style.transitionDuration = TIME_DELAY/2 + "ms"
-                element.style.transform = "translateX(-150%)"
-                element.style.opacity = "0"
-            }).then(() => {
-                const swipeLeft = () => {
-                    element.style.transitionDuration = TIME_DELAY/2 + "ms"
-                    element.style.transform = "translateX(0%)"
-                    element.style.opacity = "1"
-                }
-                setTimeout(swipeLeft, 100)
-                setActiveContent(i)
-                element.style.transitionDuration = "0ms"
-                element.style.transform = "translateX(150%)"
-            })
+
+        // Swipe from center to left
+        element.style.transitionDuration = TIME_DELAY/2 + "ms"
+        element.style.transform = "translateX(-100%)"
+        element.style.opacity = "0"
+        await delay(TIME_DELAY/2)
+
+        // Change content and move to right instantly
+        setActiveContent(i)
+        element.style.transitionDuration = "0ms"
+        element.style.transform = "translateX(100%)"
+        await delay(50)
+        
+        // Swipe from right to center
+        element.style.transitionDuration = TIME_DELAY/2 + "ms"
+        element.style.transform = "translateX(0%)"
+        element.style.opacity = "1"
     }
 
     const clickButton = (i:number) => {
