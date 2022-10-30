@@ -73,7 +73,7 @@ export const ThefigureModule: React.FC = () => {
         <div className="">
           <div className="items-center px-4 flex justify-center">
             <div className="relative w-[80vw] sm:max-w-2xl sm:mx-auto">
-              <div className="overflow-hidden z-0 rounded-full relative">
+              <div className="overflow-hidden shadow-sm z-0 rounded-full relative">
                 <form
                   onSubmit={handleSearch}
                   role="form"
@@ -102,7 +102,7 @@ export const ThefigureModule: React.FC = () => {
           <div className="">
             <Menu as="div" className="relative inline-block text-left">
               <div>
-                <Menu.Button className="inline-flex w-full justify-center rounded-md bg-black bg-opacity-20 px-4 py-2 text-sm font-medium text-white hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
+                <Menu.Button className="inline-flex shadow-sm w-full justify-center rounded-md bg-white px-4 py-2 text-sm font-medium text-black hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white ">
                   {sorting}
                   <ChevronDownIcon
                     className="ml-2 -mr-1 h-5 w-5 text-violet-200 hover:text-violet-100"
@@ -126,9 +126,7 @@ export const ThefigureModule: React.FC = () => {
                         <button
                           onClick={handleSortingAZ}
                           className={`${
-                            active
-                              ? 'bg-violet-500 text-white'
-                              : 'text-gray-900'
+                            active ? 'bg-[#0E1F58] text-white' : 'text-gray-900'
                           } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                         >
                           {active ? (
@@ -151,9 +149,7 @@ export const ThefigureModule: React.FC = () => {
                         <button
                           onClick={handleSortingZA}
                           className={`${
-                            active
-                              ? 'bg-violet-500 text-white'
-                              : 'text-gray-900'
+                            active ? 'bg-[#0E1F58] text-white' : 'text-gray-900'
                           } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                         >
                           {active ? (
