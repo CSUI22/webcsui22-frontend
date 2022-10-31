@@ -1,1 +1,6 @@
 export * from './HomeModule'
+export * from './ThefigureModule'
+export * from './WorkhardModule'
+export * from './PlayhardModule'
+export * from './WebteamModule'
+export * from './ProfileModule'

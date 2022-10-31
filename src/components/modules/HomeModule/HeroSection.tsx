@@ -8,7 +8,7 @@ export const HeroSection: React.FC = () => (
         <Imageoptimized
           imageUrl="/assets/images/csui-22.png"
           alt="CSUI 22"
-          className="w-[1200px] h-[576px]"
+          className="xl:w-[1200px] xl:h-[576px] lg:w-[900px] lg:h-[480px] md:w-[700px] md:h-[384px] xs:w-[300px] xs:h-[200px] ss:w-[365px] ss:h-[200px]"
           fit="contain"
         />
       </div>
