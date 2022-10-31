@@ -9,7 +9,7 @@ export const HomeModule: React.FC = () => (
     <div className="flex flex-col gap-16 py-24">
       <HeroSection />
       <IntroAngkatanSection />
-      <Carousel/>
+      <Carousel />
       <WebDevSection />
     </div>
   </>
