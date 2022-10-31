@@ -6,7 +6,7 @@ export const WebDevSection: React.FC = () => (
     <div>
       <div className="flex items-center">
         <div className="relative flex flex-wrap mx-auto">
-        <Link href='/webdev'>
+        <Link href='/webteam'>
             <a>
             <Imageoptimized
             imageUrl="/assets/images/webdev.png"
