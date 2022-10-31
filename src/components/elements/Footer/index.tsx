@@ -26,10 +26,10 @@ export const Footer: React.FC = () => {
           </div>
           <div>
             <h1 className="font-interbold">CREDITS</h1>
-            <Link href={'/'}>
+            <Link href={'/webteam'}>
               <a>
                 <h2 className="font-inter text-[16px] leading-[19.36px] lg:py-4 py-2">
-                  Website Developer
+                  Website Developers
                 </h2>
               </a>
             </Link>
