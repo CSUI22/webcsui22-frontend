@@ -1,4 +1,3 @@
-import { maxHeaderSize } from 'http'
 import React from 'react'
 
 interface DescriptionProps {

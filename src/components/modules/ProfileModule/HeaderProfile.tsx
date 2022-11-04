@@ -1,31 +1,39 @@
 import React from 'react'
 import { Biodata } from './Biodata'
-import { Imageoptimized } from '@elements'
 import { MediaSocial } from './MediaSocial'
+import { AdvancedImage, lazyload } from '@cloudinary/react'
+import { Cloudinary } from '@cloudinary/url-gen'
+import { focusOn } from '@cloudinary/url-gen/qualifiers/gravity'
+import { FocusOn } from '@cloudinary/url-gen/qualifiers/focusOn'
+import { thumbnail } from '@cloudinary/url-gen/actions/resize'
+import { byRadius } from '@cloudinary/url-gen/actions/roundCorners'
 
 interface HeaderProfileProps {
   nickname: string
   birthday: string
-  major: string
   instagram: string
   line: string
+  photo: string
 }
 
-export const HeaderProfile: React.FC<HeaderProfileProps> = (props) => (
-  <div className="head-profile w-full flex flex-col items-center sm:flex-row sm:gap-5 sm:items-stretch">
-    <Imageoptimized
-      imageUrl=""
-      alt="Foto mahasiswa"
-      className="md:w-72 w-full aspect-square"
-      fit="contain"
-    />
-    <div className="profile flex flex-col justify-between gap-5 w-full py-3 h-auto xl:max-w-[580px] md:max-h-64">
-      <Biodata
-        nickname={props.nickname}
-        birthday={props.birthday}
-        major={props.major}
+export const HeaderProfile: React.FC<HeaderProfileProps> = (props) => {
+  const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
+  return (
+    <div className="head-profile w-full flex flex-col items-center sm:flex-row sm:gap-5 sm:items-stretch">
+      <AdvancedImage
+        cldImg={myCld
+          .image(props.photo)
+          .resize(
+            thumbnail().width(288).height(288).gravity(focusOn(FocusOn.face()))
+          )
+          .roundCorners(byRadius(40))
+          .format('png')}
+        plugins={[lazyload()]}
       />
-      <MediaSocial instagram={props.instagram} line={props.line} />
+      <div className="profile flex flex-col justify-between gap-5 w-full py-3 h-auto xl:max-w-[580px] md:max-h-64">
+        <Biodata nickname={props.nickname} birthday={props.birthday} />
+        <MediaSocial instagram={props.instagram} line={props.line} />
+      </div>
     </div>
-  </div>
-)
+  )
+}

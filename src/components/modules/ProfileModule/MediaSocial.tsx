@@ -7,12 +7,12 @@ interface MediaSocialProps {
 }
 
 export const MediaSocial: React.FC<MediaSocialProps> = (props) => (
-  <div className="media-social flex flex-col gap-5 sm:grid sm:grid-cols-2">
+  <div className="media-social flex flex-col gap-5 ">
     <div className="instagram flex items-center gap-2">
       <Imageoptimized
         imageUrl="/assets/images/instagram-logo.svg"
         alt="Logo Instagram"
-        className="w-8 h-8"
+        className="min-w-[32px] min-h-[32px]"
         fit="contain"
       />
       <p className="text-lg md:text-xl xl:text-2xl">{props.instagram}</p>
@@ -21,10 +21,10 @@ export const MediaSocial: React.FC<MediaSocialProps> = (props) => (
       <Imageoptimized
         imageUrl="/assets/images/line-logo.svg"
         alt="Logo Line"
-        className="w-8 h-8"
+        className="min-w-[32px] min-h-[32px]"
         fit="contain"
       />
-      <p className="text-lg md:text-xl xl:text-2xl">{props.line}</p>
+      <p className="text-lg md:text-xl xl:text-2xl break-words">{props.line}</p>
     </div>
   </div>
 )
