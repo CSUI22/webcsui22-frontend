@@ -178,7 +178,7 @@ export const ThefigureModule: React.FC = () => {
         {/* lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 gap-10 */}
         <div className="lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 lg:gap-7 md:gap-7 sm:gap-7 gap-7">
           {dataAngkatanSearched.map((key, index) => (
-            <Link key={key['id foto']} href={`/figures/${key['id foto']}`}>
+            <Link key={key['id foto']} href={`/thefigure/${key['id foto']}`}>
               <div className="my-1 px-1 cursor-pointer z-0">
                 <article className="overflow-hidden h-full w-auto rounded-2xl shadow-xl bg-[#0E1F58] transition ease-in-out delay-150hover:-translate-y-1 hover:scale-110 hover:bg-indigo-900 duration-300 pb-7">
                   <div className="p-4">
