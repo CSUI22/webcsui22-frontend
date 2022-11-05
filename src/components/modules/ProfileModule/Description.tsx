@@ -2,7 +2,7 @@ import React from 'react'
 import { DescriptionProps } from './interface'
 
 export const Description: React.FC<DescriptionProps> = (props) => (
-  <div className="flex flex-col gap-5">
+  <div className="flex flex-col gap-5 pt-10">
     <div className="">
       <h2 className="font-interbold lg:text-[24px] text-[16px] leading-[32px]  ">
         Description
