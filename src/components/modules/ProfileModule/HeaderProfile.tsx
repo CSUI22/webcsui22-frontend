@@ -24,7 +24,7 @@ export const HeaderProfile: React.FC<HeaderProfileProps> = (props) => {
         plugins={[lazyload()]}
       />
 
-      <div className="w-full flex flex-col gap-12 translate-y-12">
+      <div className="w-full flex flex-col gap-10 translate-y-12">
         <Biodata nickname={props.nickname} birthday={props.birthday} />
         <MediaSocial instagram={props.instagram} line={props.line} />
       </div>

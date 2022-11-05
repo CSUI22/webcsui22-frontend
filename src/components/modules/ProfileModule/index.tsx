@@ -5,11 +5,11 @@ import PropTypes from 'prop-types'
 
 export const ProfileModule = ({ id }: any) => {
   return (
-    <div className="container flex flex-col gap-5 mx-auto px-3 py-24 lg:px-24 sm:px-5">
-      <h1 className="font-interbold text-center text-[20px] xl:text-[80px] lg:text-[60px] md:text-[40px] lg:leading-[97px] ">
+    <div className="container flex flex-col gap-5 mx-auto px-3 py-36 lg:px-24 sm:px-5">
+      <h1 className="font-interbold text-center text-[20px] xl:text-[80px] lg:text-[60px] md:text-[40px] lg:leading-[97px]">
         {id['Nama Lengkap']}
       </h1>
-      <div className="mt-16">
+      <div className="mt-4">
         <HeaderProfile
           nickname={id['Nama Panggilan']}
           birthday={id['Tanggal Lahir']}
@@ -18,7 +18,7 @@ export const ProfileModule = ({ id }: any) => {
           line={id['Line']}
         />
       </div>
-      <div className="mt-4">
+      <div className="mt-16">
         <Description
           description={id['Deskripsi Singkat']}
           message={
