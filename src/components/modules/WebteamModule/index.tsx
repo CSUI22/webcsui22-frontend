@@ -14,7 +14,7 @@ export const WebteamModule: React.FC = () => {
     <div className="grid grid-rows-1 justify-center my-12 py-10 px-4">
       <header className="relative">
         <div className="py-5 pb-[3em]">
-          <Link href={'/figures'}>
+          <Link href={'/thefigure'}>
             <a className="lg:block md:block sm:hidden hidden cursor-pointer transition ease-in-out delay-150 hover:translate-x-[2em] hover:scale-[105%] duration-300">
               <img
                 src="/assets/images/Vector.png"
