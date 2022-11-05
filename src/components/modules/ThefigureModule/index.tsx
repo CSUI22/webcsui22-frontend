@@ -1,7 +1,7 @@
 import React, { useState, Fragment } from 'react'
 import { dataAngkatan } from './constant'
 import Link from 'next/link'
-import { AdvancedImage } from '@cloudinary/react'
+import { AdvancedImage, lazyload } from '@cloudinary/react'
 import { byRadius } from '@cloudinary/url-gen/actions/roundCorners'
 import { FocusOn } from '@cloudinary/url-gen/qualifiers/focusOn'
 import { focusOn } from '@cloudinary/url-gen/qualifiers/gravity'
@@ -187,13 +187,13 @@ export const ThefigureModule: React.FC = () => {
                         .image(key['id foto'])
                         .resize(
                           thumbnail()
-                            .width(700)
-                            .height(700)
+                            .width(600)
+                            .height(600)
                             .gravity(focusOn(FocusOn.face()))
                         )
                         .roundCorners(byRadius(40))
                         .format('png')}
-                      plugins={[placeholder({ mode: 'blur' })]}
+                      plugins={[placeholder({ mode: 'blur' }), lazyload()]}
                     />
                   </div>
                   <header className=" pl-4 pr-4 pt-1 pb-6">
