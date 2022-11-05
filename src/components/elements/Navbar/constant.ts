@@ -1,6 +1,6 @@
 export const tabs = [
   { url: '/', label: 'home' },
-  { url: '/figures', label: 'the figures' },
-  { url: '/academic', label: 'work hard' },
+  { url: '/thefigure', label: 'the figures' },
+  { url: '/workhard', label: 'work hard' },
   { url: '/gathering', label: 'play hard' },
 ]
