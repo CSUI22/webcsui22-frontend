@@ -68,7 +68,7 @@ export const ThefigureModule: React.FC = () => {
   }
 
   return (
-    <div className="grid grid-rows-1 justify-center py-24 px-4">
+    <div className="grid grid-rows-1 justify-center my-12 py-10 px-4">
       <header className="py-5 pb-[3em]">
         <div className="">
           <div className="items-center px-4 flex justify-center">
