@@ -15,7 +15,7 @@ module.exports = {
     },
 
     screens: {
-      'max-mobile-l': { max: '425px' },
+      'max-mobile-l': { max: '325px' },
       xxxs: '250px',
       xxs: '290px',
       xs: '320px',
@@ -29,5 +29,5 @@ module.exports = {
     },
   },
 
-  plugins: [],
+  plugins: [require('@tailwindcss/line-clamp')],
 }
