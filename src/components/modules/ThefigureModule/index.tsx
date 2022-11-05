@@ -69,6 +69,14 @@ export const ThefigureModule: React.FC = () => {
 
   return (
     <div className="grid grid-rows-1 justify-center py-24 px-4">
+      <div className="flex flex-col">
+        <h1 className="font-interbold lg:text-[96px] text-[32px] md:text-[64px] text-center mx-auto">
+          The Figures
+        </h1>
+        <h2 className="font-inter lg:text-[32px] md:text-[24px] text-[18px] mx-auto">
+          Get to know the members!
+        </h2>
+      </div>
       <header className="py-5 pb-[3em]">
         <div className="">
           <div className="items-center px-4 flex justify-center">
@@ -89,7 +97,7 @@ export const ThefigureModule: React.FC = () => {
                   />
                   <button
                     onClick={handleSearch}
-                    className="bg-[#0E1F58] text-white rounded-full font-semibold px-7 py-4 hover:bg-indigo-800"
+                    className="font-interbold text-[12px] md:text-[18px] bg-[#0E1F58] text-white rounded-full font-semibold px-2 md:px-7 py-4 hover:bg-indigo-800"
                   >
                     Search
                   </button>

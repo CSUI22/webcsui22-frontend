@@ -17,18 +17,26 @@ export const PlayhardModule: React.FC = () => {
   })
 
   return (
-    <div className="py-20">
-      <h1 className="text-[80px] font-interbold  text-center">Play Hard</h1>
-      <p className="text-[24px] text-center">Until we meet again!</p>
-      <div className="flex flex-col gap-2">
+    <div className="pt-[10em]">
+      <div className="flex flex-col">
+        <h1 className="font-interbold lg:text-[96px] text-[32px] md:text-[64px] text-center mx-auto">
+          Play Hard
+        </h1>
+        <h2 className="font-inter lg:text-[32px] md:text-[24px] text-[18px] mx-auto">
+          Until we meet again!
+        </h2>
+      </div>
+      <div className="flex flex-col gap-16 pt-10">
         <Event />
       </div>
-
       <h1 className="lg:text-[50px] md:text-[40px] sm:text-[40px] text-[30px] max-mobile-l:text-[22px] font-interbold text-center mb-2">
         {gatheringName}
       </h1>
-      <div className="flex flex-wrap flex-row place-items-center justify-center">
-        <div className="bg-gradient-to-r flex-wrap flex-row place-items-center from-[#00d4ff] via-[#88a7e1] to-[#ce718e] py-[3em] rounded-[3rem] lg:w-[70%] md:w-[80%] sm:w-[85%] w-[95%]">
+      <div className="flex flex-wrap flex-row place-items-center justify-center pt-16 pb-24">
+        <div className="bg-gradient-to-r flex-wrap flex-row place-items-center from-[#00d4ff] via-[#88a7e1] to-[#ce718e] py-[3em] rounded-[60px] lg:w-[85%] md:w-[80%] sm:w-[85%] w-[95%]">
+          <h1 className="font-interbold pb-16 mx-auto md:text-[24px] text-[16px] text-center">
+            Friday, 11 November 2022
+          </h1>
           <div className="flex flex-wrap flex-row place-items-center justify-center lg:gap-2 md:gap-2 sm:gap-1 max-mobile-l:gap-1 gap-1">
             <div className="lg:mr-6 md:mr-6 sm:mr-3 mr-1">
               <div className="lg:mr-3 md:mr-3 sm:mr-1  mr-[0.125rem]  inline-grid place-items-center text-center lg:w-[4em] lg:h-[5em] md:w-[3em] md:h-[4em] sm:w-[3em] sm:h-[4em] w-[2em] h-[3em] bg-[#0E1F58] lg:rounded-2xl md:rounded-2xl sm:rounded-xl rounded-xl  max-mobile-l:rounded-lg max-mobile-l:w-[1.5em] max-mobile-l:h-[2.5em]">
@@ -108,6 +116,7 @@ export const PlayhardModule: React.FC = () => {
               </div>
             </div>
           </div>
+          <h1 className="font-interbold pb-16 mx-auto text-[24px] text-center"></h1>
         </div>
       </div>
     </div>

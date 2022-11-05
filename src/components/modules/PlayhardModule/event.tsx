@@ -4,7 +4,7 @@ import { Imageoptimized } from '@elements'
 export const Event: React.FC = () => (
   <div>
     <div className="flex items-center">
-      <div className="relative flex flex-wrap mx-auto">
+      <div className="relative flex flex-wrap mx-auto pb-24">
         <Imageoptimized
           imageUrl="/assets/images/Gathering.png"
           alt="CSUI 22"
