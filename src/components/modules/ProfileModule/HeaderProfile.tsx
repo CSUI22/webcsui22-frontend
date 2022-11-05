@@ -1,6 +1,6 @@
 import React from 'react'
 import { HeaderProfileProps } from './interface'
-import { Biodata } from './biodata'
+import { Biodata } from './Biodata'
 import { MediaSocial } from './MediaSocial'
 import { AdvancedImage, lazyload } from '@cloudinary/react'
 import { Cloudinary } from '@cloudinary/url-gen'
