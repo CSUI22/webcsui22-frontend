@@ -3606,22 +3606,6 @@ export const dataAngkatan = [
     'id foto': '1CG70QD3ur0DwEKyjlGBAIuTYZDDCFSBX',
   },
   {
-    'Nama Lengkap': 'Nama Lengkap',
-    'Nama Panggilan': 'Nama Panggilan',
-    'Tanggal Lahir': 'Tanggal Lahir',
-    'Foto (.jpg)': 'Foto (.jpg)',
-    MedSos:
-      'Media Sosial (Line & Instagram)\nContoh:\nLine: https://line.me/ti/p/Q1hqgliRYf\nInstagram: instagram.com/csui.2022',
-    'Deskripsi Singkat':
-      'Deskripsi Singkat\n(Fun Fact atau kalimat bebas yang deskripsiin kamu)',
-    Interest: 'Interest\n(Contoh: Web Dev, UI/UX, Marvel, Valorant.)',
-    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
-      'Pesan untuk CSUI 22\n(Pesan/harapan kamu kedepannya untuk CSUI 22)',
-    Line: 'line.me/ti/p/Q1hqgliRYf',
-    Instagram: 'instagram.com/csui.2022',
-    'id foto': 'o (.jpg)',
-  },
-  {
     'Nama Lengkap': 'Nanda Nathaniela Meizari',
     'Nama Panggilan': 'Nanda',
     'Tanggal Lahir': '31 07 2004',
