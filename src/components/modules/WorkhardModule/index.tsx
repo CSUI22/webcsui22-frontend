@@ -1,21 +1,14 @@
-
 import React, { useState, Fragment } from 'react'
 import { MatkulAngkatan } from './constant'
 import Link from 'next/link'
-import { AdvancedImage } from '@cloudinary/react'
-import { byRadius } from '@cloudinary/url-gen/actions/roundCorners'
-import { FocusOn } from '@cloudinary/url-gen/qualifiers/focusOn'
-import { focusOn } from '@cloudinary/url-gen/qualifiers/gravity'
-import { thumbnail } from '@cloudinary/url-gen/actions/resize'
-import { Cloudinary } from '@cloudinary/url-gen'
-import { placeholder } from '@cloudinary/react'
 import { Menu, Transition } from '@headlessui/react'
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
+import { Imageoptimized } from '@elements'
 
 export const WorkhardModule: React.FC = () => {
   // TODO: Write module's logic
-  const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
-  const [MatkulAngkatanSearched, setMatkulAngkatanSearched] = useState(MatkulAngkatan)
+  const [MatkulAngkatanSearched, setMatkulAngkatanSearched] =
+    useState(MatkulAngkatan)
   const [sorting, setSorting] = useState('A-Z')
   const handleSortingAZ = () => {
     setSorting('A-Z')
@@ -27,9 +20,7 @@ export const WorkhardModule: React.FC = () => {
   const handleSortingZA = () => {
     setSorting('Z-A')
     const temp = MatkulAngkatanSearched
-    temp
-      .sort((a, b) => a['Matkul'].localeCompare(b['Matkul']))
-      .reverse()
+    temp.sort((a, b) => a['Matkul'].localeCompare(b['Matkul'])).reverse()
     setMatkulAngkatanSearched(temp)
   }
 
@@ -43,8 +34,8 @@ export const WorkhardModule: React.FC = () => {
     } else {
       const temp: React.SetStateAction<
         {
-          'Matkul': string
-          'Semester': string
+          Matkul: string
+          Semester: string
           'Foto (.jpg)': string
           'Link gdrive': string
         }[]
@@ -62,8 +53,16 @@ export const WorkhardModule: React.FC = () => {
   }
 
   return (
-    <div className="grid grid-rows-1 justify-center my-12 py-10 px-4">
-      <header className="py-5 pb-[3em]">
+    <div className="grid grid-rows-1 justify-center py-36 px-4">
+      <div className="flex flex-col">
+        <h1 className="font-interbold text-[100px] text-center mx-auto">
+          Work Hard
+        </h1>
+        <h2 className="font-inter text-[30px] mx-auto">
+          Lets learn and grow together!
+        </h2>
+      </div>
+      <header className="py-6 pb-[3em]">
         <div className="">
           <div className="items-center px-4 flex justify-center">
             <div className="relative w-[80vw] sm:max-w-2xl sm:mx-auto">
@@ -172,21 +171,15 @@ export const WorkhardModule: React.FC = () => {
         {/* lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 gap-10 */}
         <div className="lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 lg:gap-7 md:gap-7 sm:gap-7 gap-7">
           {MatkulAngkatanSearched.map((key, index) => (
-            <Link key={key["Link gdrive"]} href={`${key['Link gdrive']}`}>
+            <Link key={key['Link gdrive']} href={`${key['Link gdrive']}`}>
               <div className="my-1 px-1 cursor-pointer z-0">
                 <article className="overflow-hidden h-full w-auto rounded-2xl shadow-xl bg-[#0E1F58] transition ease-in-out delay-150hover:-translate-y-1 hover:scale-110 hover:bg-indigo-900 duration-300 pb-7">
                   <div className="p-4">
-                    <AdvancedImage
-                      cldImg={myCld
-                        .image(key['Foto (.jpg)']) .resize(
-                          thumbnail()
-                            .width(700)
-                            .height(700)
-                            .gravity(focusOn(FocusOn.face()))
-                        )
-                        .roundCorners(byRadius(40))
-                        .format('png')}
-                      plugins={[placeholder({ mode: 'blur' })]}
+                    <Imageoptimized
+                      imageUrl="/assets/images/placeholder.png"
+                      alt="placeholder"
+                      className="w-[150px] h-[150px]"
+                      fit="contain"
                     />
                   </div>
                   <header className=" pl-4 pr-4 pt-1 pb-6">
