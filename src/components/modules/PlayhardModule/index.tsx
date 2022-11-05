@@ -16,6 +16,21 @@ export const PlayhardModule: React.FC = () => {
   })
 
   return (
+    <h1 className="text-[80px] font-interbold  text-center pt-40">
+        Play Hard
+      </h1>
+      <p className='text-[24px] text-center'>
+        Until we meet again!
+      </p>
+
+      <div className="flex flex-col gap-16 pt-10">
+        <Event />
+      </div></>
+
+      <h1 className="text-[72px] font-interbold  text-center pt-40 pb-40">
+        Sabtu Pelangi
+      </h1>
+    
     <div className="pt-[10em]">
       <h1 className="lg:text-[50px] md:text-[40px] sm:text-[40px] text-[30px] max-mobile-l:text-[22px] font-interbold text-center mb-2">
         {gatheringName}
