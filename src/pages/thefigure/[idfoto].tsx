@@ -1,3 +1,5 @@
+import React from 'react'
+import { useEffect, useState } from 'react'
 import { useRouter } from 'next/router'
 import { ProfileModule } from '@modules'
 import { dataAngkatan } from 'src/components/modules/ThefigureModule/constant'
@@ -5,13 +7,15 @@ import { dataAngkatan } from 'src/components/modules/ThefigureModule/constant'
 const Post = () => {
   const router = useRouter()
   const { idfoto } = router.query
-  let data
-  dataAngkatan.some((key) => {
-    if (key['id foto'] === idfoto) {
-      data = key
-      return true
-    }
+  const [data, setData] = useState({})
+  useEffect(() => {
+    dataAngkatan.some((key) => {
+      if (key['id foto'] === idfoto) {
+        setData(key)
+      }
+    })
   })
+
   return <ProfileModule id={data} />
 }
 
