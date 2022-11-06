@@ -17,7 +17,7 @@ export const Navbar: React.FC = () => {
   return (
     <div className="fixed w-full transition-all duration-200 ease-in-out z-20">
       <NavbarBody {...navbarState} handleCollapse={handleCollapse} />
-      <Collaps {...navbarState} />
+      <Collaps {...navbarState} handleCollapse={handleCollapse} />
     </div>
   )
 }
