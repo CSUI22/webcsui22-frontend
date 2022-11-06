@@ -85,11 +85,11 @@ export const WorkhardModule: React.FC = () => {
                     onKeyDown={() => {}}
                     type="text"
                     placeholder="Find your subjects here..."
-                    className="rounded-full flex-1 pl-6 py-4 text-gray-700 focus:outline-none"
+                    className="rounded-full flex-1 pl-2 py-4 text-gray-700 focus:outline-none"
                   />
                   <button
                     onClick={handleSearch}
-                    className="font-interbold text-[12px] md:text-[18px] bg-[#0E1F58] text-white rounded-full font-semibold px-2 md:px-7 py-4 hover:bg-indigo-800"
+                    className="font-interbold text-[12px] md:text-[18px] bg-[#0E1F58] text-white rounded-full font-semibold px-3 md:px-7 py-4 hover:bg-indigo-800"
                   >
                     Search
                   </button>
