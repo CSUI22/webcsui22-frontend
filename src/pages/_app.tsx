@@ -2,12 +2,14 @@ import '../styles/globals.css'
 import type { AppProps } from 'next/app'
 import { Navbar, Footer } from '@elements'
 import Head from 'next/head'
+import { DefaultSeo } from 'next-seo'
+import SEO from 'next-seo.config'
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
+      <DefaultSeo {...SEO} />
       <Head>
-        <title>CSUI 22</title>
         <link
           rel="apple-touch-icon"
           sizes="180x180"
