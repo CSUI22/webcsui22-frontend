@@ -16,6 +16,7 @@ export const ThefigureModule: React.FC = () => {
   const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
   const [dataAngkatanSearched, setDataAngkatanSearched] = useState(dataAngkatan)
   const [sorting, setSorting] = useState('A-Z')
+
   const handleSortingAZ = () => {
     setSorting('A-Z')
     const temp = dataAngkatanSearched
@@ -184,7 +185,7 @@ export const ThefigureModule: React.FC = () => {
       </header>
       <div className="container flex align-middle content-evenly">
         {/* lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 gap-10 */}
-        <div className="lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 lg:gap-7 md:gap-7 sm:gap-7 gap-7">
+        <div className="lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 lg:gap-7 md:gap-7 sm:gap-3 gap-2">
           {dataAngkatanSearched.map((key, index) => (
             <Link key={key['id foto']} href={`/thefigure/${key['id foto']}`}>
               <div className="my-1 px-1 cursor-pointer z-0">
@@ -204,7 +205,7 @@ export const ThefigureModule: React.FC = () => {
                       plugins={[placeholder({ mode: 'blur' }), lazyload()]}
                     />
                   </div>
-                  <header className=" pl-4 pr-4 pt-1 pb-6">
+                  <header className=" px-4 pr-4 pt-1">
                     <h1 className="lg:text-base md:text-sm sm:text-xs text-xs text-white">
                       <p
                         className="relative font-interbold truncate"
