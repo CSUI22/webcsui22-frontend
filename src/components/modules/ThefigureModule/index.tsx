@@ -93,7 +93,7 @@ export const ThefigureModule: React.FC = () => {
                     onKeyDown={() => {}}
                     type="text"
                     placeholder="Search your friend here..."
-                    className="rounded-full flex-1 pl-6 py-4 text-gray-700 focus:outline-none"
+                    className="rounded-full flex-1 pl-2 py-4 text-gray-700 focus:outline-none"
                   />
                   <button
                     onClick={handleSearch}
