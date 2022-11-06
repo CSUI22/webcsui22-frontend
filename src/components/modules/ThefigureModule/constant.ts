@@ -1497,22 +1497,6 @@ export const dataAngkatan = [
   {
     'Nama Lengkap': 'Fathirahma Alyssa Pristanti',
     'Nama Panggilan': 'Icha',
-    'Tanggal Lahir': '14/06/2004',
-    'Foto (.jpg)':
-      'https://drive.google.com/open?id=1qe0KrSWf-WTg0qVzQ0Uw_lvY3kvNDhKT',
-    MedSos: 'https://line.me/ti/p/HdTtfFsxYX instagram.com/ichapristantii',
-    'Deskripsi Singkat':
-      'Haii, panggil aja aku Icha. Aku anak pertama dari dua bersaudara, lahir di Jakarta, 14 Juni 2004. Hobinyaa nonton sama dengerin lagu. MBTI nya ENTJ & love languagenya quality time & receiving gifts',
-    Interest: 'UI/UX, Project Manager',
-    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
-      'Semoga bisa terus bareng" ke depannya sampe lulus & bisa saling kerja sama untuk menjadikan angkatan yang solid',
-    Line: 'line.me/ti/p/HdTtfFsxYX',
-    Instagram: 'instagram.com/ichapristantii',
-    'id foto': '1qe0KrSWf-WTg0qVzQ0Uw_lvY3kvNDhKT',
-  },
-  {
-    'Nama Lengkap': 'Fathirahma Alyssa Pristanti',
-    'Nama Panggilan': 'Icha',
     'Tanggal Lahir': '14 06 2004',
     'Foto (.jpg)':
       'https://drive.google.com/open?id=10esGGT4VOUkjuyPT3waxnNoJ3sCSnLhL',
