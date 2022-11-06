@@ -5,7 +5,6 @@ import Head from 'next/head'
 import { DefaultSeo } from 'next-seo'
 import NextSeoConfig from 'next-seo.config'
 
-
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
