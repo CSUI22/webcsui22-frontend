@@ -14,14 +14,14 @@ export const WebteamModule: React.FC = () => {
     <div className="grid grid-rows-1 justify-center my-12 py-10 px-4">
       <header className="relative">
         <div className="py-5 pb-[3em]">
-          <Link href={'/thefigure'}>
+          <Link href={'/'}>
             <a className="lg:block md:block sm:hidden hidden cursor-pointer transition ease-in-out delay-150 hover:translate-x-[2em] hover:scale-[105%] duration-300">
               <img
                 src="/assets/images/Vector.png"
                 alt=""
                 className="inline px-2 w-6 relative pb-1"
               />
-              <p className="text-[gray] inline">{'Back to The Figures'}</p>
+              <p className="text-[gray] inline">{'Back to Home'}</p>
             </a>
           </Link>
           <h1 className="text-[50px] font-interbold  text-center">
@@ -32,7 +32,7 @@ export const WebteamModule: React.FC = () => {
       </header>
       <div className="container flex align-middle content-evenly">
         {/* lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 gap-10 */}
-        <div className="lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 lg:gap-7 md:gap-7 sm:gap-7 gap-7">
+        <div className="lg:px-12 md:px-12 grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-3 grid-cols-2 lg:gap-7 md:gap-7 sm:gap-3 gap-2">
           {dataWebDev.map((key, index) => (
             <Link key={key['id foto']} href={`/thefigure/${key['id foto']}`}>
               <div className="my-1 px-1 cursor-pointer">
@@ -52,7 +52,7 @@ export const WebteamModule: React.FC = () => {
                       plugins={[lazyload()]}
                     />
                   </div>
-                  <header className=" pl-4 pt-1 pb-6 md:px-4">
+                  <header className=" px-4 pt-1">
                     <h1 className="lg:text-base md:text-sm sm:text-xs text-xs text-white">
                       <p
                         className="relative font-interbold truncate"
