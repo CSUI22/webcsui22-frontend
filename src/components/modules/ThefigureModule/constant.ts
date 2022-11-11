@@ -4253,19 +4253,6 @@ export const dataAngkatan = [
 	{
 		"Nama Lengkap": "Vito Putra Sutarno",
 		"Nama Panggilan": "Vito",
-		"Tanggal Lahir": "09/10/2022",
-		"Foto (.jpg)": "https://drive.google.com/open?id=1-4LE3UvIETbpPkkrpq5PJ-reJoHarTix",
-		"MedSos": "Line: https://line.me/ti/p/EKkwQlQReQ |||| Instagram: instagram.com/vito.putra.s",
-		"Deskripsi Singkat": "jarang tidur dan overthinking",
-		"Interest": "Mobile Legends, Valorant, Bussines Intelligence, Artificial Intelligence",
-		"Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)": "semakin solid dan lulus bareng-bareng",
-		"Line": "line.me/ti/p/EKkwQlQReQ",
-		"Instagram": "instagram.com/vito.putra.s",
-		"id foto": "1-4LE3UvIETbpPkkrpq5PJ-reJoHarTix"
-	},
-	{
-		"Nama Lengkap": "Vito Putra Sutarno",
-		"Nama Panggilan": "Vito",
 		"Tanggal Lahir": "01/05/2004",
 		"Foto (.jpg)": "https://drive.google.com/open?id=1Mu93NEUbDY_j7iioKRGIIoh2fB1O7nZS",
 		"MedSos": "Line: https://line.me/ti/p/EKkwQlQReQ ||| Instagram: instagram.com/vito.putra.s",
