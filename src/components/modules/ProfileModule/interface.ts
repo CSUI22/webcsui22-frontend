@@ -15,7 +15,6 @@ export interface HeaderProfileProps {
   instagram: string
   line: string
   photo: string
-  namaFoto: string
 }
 
 export interface MediaSocialProps {

@@ -1,11 +1,15 @@
 import React from 'react'
 import Link from 'next/link'
 import { dataWebDev } from './constant'
-import Image from 'next/image'
-import { loadingImg } from '../constant'
+import { AdvancedImage, lazyload } from '@cloudinary/react'
+import { Cloudinary } from '@cloudinary/url-gen'
+import { focusOn } from '@cloudinary/url-gen/qualifiers/gravity'
+import { FocusOn } from '@cloudinary/url-gen/qualifiers/focusOn'
+import { thumbnail } from '@cloudinary/url-gen/actions/resize'
+import { byRadius } from '@cloudinary/url-gen/actions/roundCorners'
 
 export const WebteamModule: React.FC = () => {
-  // const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
+  const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
   return (
     <div className="grid grid-rows-1 justify-center my-12 py-10 px-4">
       <header className="relative">
@@ -34,7 +38,7 @@ export const WebteamModule: React.FC = () => {
               <div className="my-1 px-1 cursor-pointer">
                 <article className="overflow-hidden h-full w-auto rounded-2xl shadow-xl bg-[#0E1F58] transition ease-in-out delay-150hover:-translate-y-1 hover:scale-110 hover:bg-indigo-900 duration-300 pb-7">
                   <div className="p-4">
-                    {/* <AdvancedImage
+                    <AdvancedImage
                       cldImg={myCld
                         .image(key['id foto'])
                         .resize(
@@ -46,16 +50,6 @@ export const WebteamModule: React.FC = () => {
                         .roundCorners(byRadius(40))
                         .format('png')}
                       plugins={[lazyload()]}
-                    /> */}
-                    {/* <img src={`https://csui22.imgix.net/images/${encodeURI(key['nama foto'])}?w=500&h=500&fit=crop&crop=faces&mask=corners&corner-radius=35&fm=png&wm=webp&lossless=0%q=75`} loading="lazy"/> */}
-                    <Image
-                      width={500}
-                      height={500}
-                      loading="lazy"
-                      placeholder="blur"
-                      blurDataURL={loadingImg}
-                      src={`https://csui22.imgix.net/images/${key['nama foto']}?w=500&h=500&fit=crop&crop=faces&mask=corners&corner-radius=35&fm=png&wm=webp&lossless=0%q=75`}
-                      alt={`Picture of ${key['Nama Panggilan']}`}
                     />
                   </div>
                   <header className=" px-4 pt-1">

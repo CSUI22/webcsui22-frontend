@@ -2,15 +2,19 @@ import React from 'react'
 import { HeaderProfileProps } from './interface'
 import { Biodata } from './Biodata'
 import { MediaSocial } from './MediaSocial'
-import Image from 'next/image'
-import { loadingImg } from '../constant'
+import { AdvancedImage, lazyload } from '@cloudinary/react'
+import { Cloudinary } from '@cloudinary/url-gen'
+import { focusOn } from '@cloudinary/url-gen/qualifiers/gravity'
+import { FocusOn } from '@cloudinary/url-gen/qualifiers/focusOn'
+import { thumbnail } from '@cloudinary/url-gen/actions/resize'
+import { byRadius } from '@cloudinary/url-gen/actions/roundCorners'
 
 export const HeaderProfile: React.FC<HeaderProfileProps> = (props) => {
-  // const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
+  const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
   return (
     <div className="head-profile w-full flex flex-col items-center sm:flex-row sm:gap-5 sm:items-stretch">
       <div className="lg:w-[30em] md:w-[20em] sm:w-[10em]">
-        {/* <AdvancedImage
+        <AdvancedImage
           cldImg={myCld
             .image(props.photo)
             .resize(
@@ -22,13 +26,6 @@ export const HeaderProfile: React.FC<HeaderProfileProps> = (props) => {
             .roundCorners(byRadius(40))
             .format('png')}
           plugins={[lazyload()]}
-        /> */}
-        <Image
-          width={500}
-          height={500}
-          placeholder="blur"
-          blurDataURL={loadingImg}
-          src={`https://csui22.imgix.net/images/${props.namaFoto}?w=500&h=500&fit=crop&crop=faces&mask=corners&corner-radius=35&fm=png&wm=webp&lossless=0`}
         />
       </div>
 
