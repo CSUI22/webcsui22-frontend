@@ -3,11 +3,17 @@ import { MatkulAngkatan } from './constant'
 import Link from 'next/link'
 import { Menu, Transition } from '@headlessui/react'
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
-import Image from 'next/image'
+import { AdvancedImage } from '@cloudinary/react'
+import { Cloudinary } from '@cloudinary/url-gen'
+import { focusOn } from '@cloudinary/url-gen/qualifiers/gravity'
+import { FocusOn } from '@cloudinary/url-gen/qualifiers/focusOn'
+import { thumbnail } from '@cloudinary/url-gen/actions/resize'
+import { byRadius } from '@cloudinary/url-gen/actions/roundCorners'
+import { placeholder } from '@cloudinary/react'
 
 export const WorkhardModule: React.FC = () => {
   // TODO: Write module's logic
-  // const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
+  const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
   const [MatkulAngkatanSearched, setMatkulAngkatanSearched] =
     useState(MatkulAngkatan)
   const [sorting, setSorting] = useState('A-Z')
@@ -176,10 +182,18 @@ export const WorkhardModule: React.FC = () => {
               <div className="my-1 px-1 cursor-pointer z-0">
                 <article className="overflow-hidden h-full w-auto rounded-2xl shadow-xl bg-[#0E1F58] transition ease-in-out delay-150hover:-translate-y-1 hover:scale-110 hover:bg-indigo-900 duration-300 pb-7">
                   <div className="p-4">
-                    <Image
-                      src="/assets/images/Mask-group.png"
-                      width="500"
-                      height="500"
+                    <AdvancedImage
+                      cldImg={myCld
+                        .image(key['Foto (.jpg)'])
+                        .resize(
+                          thumbnail()
+                            .width(700)
+                            .height(700)
+                            .gravity(focusOn(FocusOn.face()))
+                        )
+                        .roundCorners(byRadius(40))
+                        .format('png')}
+                      plugins={[placeholder({ mode: 'blur' })]}
                     />
                   </div>
                   <header className=" pl-4 pr-4 pt-1 pb-6">

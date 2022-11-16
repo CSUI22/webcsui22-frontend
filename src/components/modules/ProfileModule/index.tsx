@@ -32,7 +32,6 @@ export const ProfileModule = ({ id }: any) => {
               photo={id['id foto']}
               instagram={id['Instagram']}
               line={id['Line']}
-              namaFoto={id['nama foto']}
             />
           </div>
           <div className="mt-16">
