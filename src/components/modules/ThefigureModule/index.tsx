@@ -1,19 +1,13 @@
 import React, { useState, Fragment } from 'react'
 import { dataAngkatan } from './constant'
 import Link from 'next/link'
-import { AdvancedImage, lazyload } from '@cloudinary/react'
-import { byRadius } from '@cloudinary/url-gen/actions/roundCorners'
-import { FocusOn } from '@cloudinary/url-gen/qualifiers/focusOn'
-import { focusOn } from '@cloudinary/url-gen/qualifiers/gravity'
-import { thumbnail } from '@cloudinary/url-gen/actions/resize'
-import { Cloudinary } from '@cloudinary/url-gen'
-import { placeholder } from '@cloudinary/react'
 import { Menu, Transition } from '@headlessui/react'
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
+import Image from 'next/image'
+import { loadingImg } from '../constant'
 
 export const ThefigureModule: React.FC = () => {
-  // TODO: Write module's logic
-  const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
+  // const myCld = new Cloudinary({ cloud: { cloudName: 'djj4bzojc' } })
   const [dataAngkatanSearched, setDataAngkatanSearched] = useState(dataAngkatan)
   const [sorting, setSorting] = useState('A-Z')
 
@@ -54,6 +48,7 @@ export const ThefigureModule: React.FC = () => {
           Line: string
           Instagram: string
           'id foto': string
+          'nama foto': string
         }[]
       > = []
       dataAngkatan.map((key) => {
@@ -191,18 +186,29 @@ export const ThefigureModule: React.FC = () => {
               <div className="my-1 px-1 cursor-pointer z-0">
                 <article className="overflow-hidden h-full w-auto rounded-2xl shadow-xl bg-[#0E1F58] transition ease-in-out delay-150hover:-translate-y-1 hover:scale-110 hover:bg-indigo-900 duration-300 pb-7">
                   <div className="p-4">
-                    <AdvancedImage
-                      cldImg={myCld
-                        .image(key['id foto'])
-                        .resize(
-                          thumbnail()
-                            .width(600)
-                            .height(600)
-                            .gravity(focusOn(FocusOn.face()))
-                        )
-                        .roundCorners(byRadius(40))
-                        .format('png')}
-                      plugins={[placeholder({ mode: 'blur' }), lazyload()]}
+                    {/* <AdvancedImage
+                      // cldImg={myCld
+                      //   .image(key['id foto'])
+                      //   .resize(
+                      //     thumbnail()
+                      //       .width(600)
+                      //       .height(600)
+                      //       .gravity(focusOn(FocusOn.face()))
+                      //   )
+                      //   .roundCorners(byRadius(40))
+                      //   .format('png')}
+                      // plugins={[placeholder({ mode: 'blur' }), lazyload()]}
+                      hr
+                    /> */}
+                    {/* <img src={`https://csui22.imgix.net/images/${encodeURI(key['nama foto'])}?w=500&h=500&fit=crop&crop=faces&mask=corners&corner-radius=35&fm=png&wm=webp&lossless=0%q=75`} loading="lazy"/> */}
+                    <Image
+                      className="rounded"
+                      width={500}
+                      height={500}
+                      placeholder={'blur'}
+                      blurDataURL={loadingImg}
+                      src={`https://csui22.imgix.net/images/${key['nama foto']}?w=500&h=500&fit=crop&crop=faces&mask=corners&corner-radius=35&fm=png&wm=webp&lossless=0%q=75`}
+                      alt={`Picture of ${key['Nama Panggilan']}`}
                     />
                   </div>
                   <header className=" px-4 pr-4 pt-1">
