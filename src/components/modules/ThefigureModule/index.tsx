@@ -64,7 +64,7 @@ export const ThefigureModule: React.FC = () => {
   }
 
   return (
-    <div className="grid grid-rows-1 justify-center py-24 px-4">
+    <div className="grid grid-rows-1 justify-center py-36 px-4">
       <div className="flex flex-col">
         <h1 className="font-interbold lg:text-[96px] text-[32px] md:text-[64px] text-center mx-auto">
           The Figures
