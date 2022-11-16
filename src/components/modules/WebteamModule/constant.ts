@@ -16,6 +16,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/fatih_faizi',
     'id foto': '1QDpGtlrLoJicAkX7YklYuh1AszZHX49H',
     role: 'Front-end, Back-end',
+    'nama foto': 'IMG_COM_20221025_2038_58_8761 - Ahmad Fatih Faizi.jpg',
   },
   {
     'Nama Lengkap': 'Alfian Fadhlurrahman',
@@ -33,6 +34,8 @@ export const dataWebDev = [
     Instagram: 'instagram.com/a.lfian',
     'id foto': '10OU7JKjd9xlchzfgz04sxIi7QWmz2Wa1',
     role: 'Front-end',
+    'nama foto':
+      '85C716AA-A38B-4316-9ADA-8EAF1C012DAA - Alfian Fadhlurrahman.jpeg',
   },
   {
     'Nama Lengkap': 'Alifa Hanania Ardha',
@@ -51,6 +54,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/alifa',
     'id foto': '1xBkIHwMsmRDlwGpR0SYmFzp0grY9at2V',
     role: 'UI/UX',
+    'nama foto': 'FOTO BAGUS - Alifa Hanania.jpg',
   },
   {
     'Nama Lengkap': 'Anastasia Keisha Bella Arianne Pepe',
@@ -70,6 +74,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/keishabll',
     'id foto': '1IS98Ouapbgd8nb5BsxWDx9oLgWaq4eEJ',
     role: 'UI/UX',
+    'nama foto': '20221023_051305-min - Anastasia Keisha.jpg',
   },
   {
     'Nama Lengkap': 'Belati Jagad Bintang Syuhada',
@@ -88,6 +93,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/belatijagad',
     'id foto': '1TNj_fRlSF7e-cvrhLge7jowcOY26pNld',
     role: 'Front-end',
+    'nama foto': 'IMG_20220811_170330_813 - belati jagad bintang syuhada.jpg',
   },
   {
     'Nama Lengkap': 'Cyrill Adrian Wicaksono',
@@ -105,6 +111,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/cyrill.adrn',
     'id foto': '1ZByACYlxDG9P4JWTbCOOVlbVOek-ggdc',
     role: 'Koordinator, Front-end',
+    'nama foto': 'S__4743190 - Cyrill Wicaksono.jpg',
   },
   {
     'Nama Lengkap': 'Dimas Herjunodarpito Notoprayitno',
@@ -123,6 +130,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/dimasherjunoto',
     'id foto': '1xEjbb1dqPZwN9UMaIlS0lvokoRKrY9Un',
     role: 'Front-end',
+    'nama foto': 'FOTO KTP DIMAS HN - Dimas Herjunodarpito Notoprayitno.jpeg',
   },
   {
     'Nama Lengkap': 'Irfan Kamil',
@@ -140,6 +148,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/irfankamiil',
     'id foto': '1NqAqgjuje-6NfWpBze-XTFJSDLVkq7--',
     role: 'Front-end, Back-end',
+    'nama foto': 'Irfan Kamil 3x4 (1) - Irfan Kmil.jpg',
   },
   {
     'Nama Lengkap': 'Ilham Abdillah Alhamdi',
@@ -158,6 +167,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/ilham_elhamdi/',
     'id foto': '1a1l7bE381E-s_ALvrikWGHdHZRXlNV5n',
     role: 'Front-end',
+    'nama foto': 'Informal Foto - Ilham Abdillah Alhamdi.jpeg',
   },
   {
     'Nama Lengkap': 'Jeslyn Theodora',
@@ -175,6 +185,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/jteo_0/',
     'id foto': '1ygdMEGbJzTStKJcc9zlymGAS_vnR2M2U',
     role: 'Front-end',
+    'nama foto': 'IMG_20220726_105503 - JJ Theodora.jpg',
   },
   {
     'Nama Lengkap': "Muhammad Daffa'I Rafi Prasetyo",
@@ -192,6 +203,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/daffa.tgi/',
     'id foto': '1YmhwbxfrOLRD8o5Z7y3P8RMaNTHSfZra',
     role: 'Front-end',
+    'nama foto': 'profile.jpg - Daffa Rafi.jpeg',
   },
   {
     'Nama Lengkap': 'Muhammad Haekal Kalipaksi',
@@ -209,6 +221,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/hkalipaksi/?hl=en',
     'id foto': '1KleJho_2JZkCuim0aI_CZx-4QOdL22P1',
     role: 'Koordinator, Front-end',
+    'nama foto': 'IMG_3231 2 - Muhammad Haekal Kalipaksi.jpeg',
   },
   {
     'Nama Lengkap': 'Muhammad Hanif',
@@ -226,6 +239,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/mhanif.ti',
     'id foto': '1caUTvHeGTc1u_my-tZURbMVtXyXNhycG',
     role: 'Front-end',
+    'nama foto': 'IMG_20220517_100537_110 - Muhammad Hanif.jpg',
   },
   {
     'Nama Lengkap': 'Muhammad Milian Alkindi',
@@ -243,6 +257,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/alkindi_milian',
     'id foto': '1S3FX2oDTR5cVj2t3podA62RyhkC4Mpsx',
     role: 'Front-end',
+    'nama foto': 'pic - M.Milian Alkindi.jpg',
   },
   {
     'Nama Lengkap': 'Oey Joshua Jodrian',
@@ -260,6 +275,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/oeyjojo',
     'id foto': '1f3wkGXyvkbjZ6qBlf8JD10eNCUZoQzy0',
     role: 'Front-end',
+    'nama foto': '1665068182344@2x - Joshua Jodrian.jpg',
   },
   {
     'Nama Lengkap': 'Raisyam Muhammad Fauzan Burhani',
@@ -277,6 +293,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/rais.syamm',
     'id foto': '12AG3zbfoJ97usC0iaXY59hgJrQYxRiuf',
     role: 'Front-end',
+    'nama foto': 'foto saya square resized - Raisyam.png',
   },
   {
     'Nama Lengkap': 'Sabina Maritza Moenzil',
@@ -295,6 +312,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/sabinamoenzil',
     'id foto': '1Q_gLoCnMFCe7sDqPha4oQ1N4C0wTmh19',
     role: 'UI/UX',
+    'nama foto': 'IMG_1531 - Sabina Maritza Moenzil.JPG',
   },
   {
     'Nama Lengkap': 'Samuel Taniel Mulyadi',
@@ -314,5 +332,7 @@ export const dataWebDev = [
     Instagram: 'instagram.com/misutasam',
     'id foto': '1KT32B8UH1ixDFEjAQjdgRsR23LIsDGde',
     role: 'Front-end',
+    'nama foto':
+      'WhatsApp Image 2022-08-28 at 7.39.33 PM - 26_Samuel Taniel M_A2.jpeg',
   },
 ]

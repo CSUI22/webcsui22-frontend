@@ -9,11 +9,13 @@ export const PlayhardModule: React.FC = () => {
     minutes: '00',
     seconds: '00',
   })
-
+  // const gatheringDate = +new Date(gatheringTime)
   useEffect(() => {
-    setTimeout(() => {
-      setTimeLeft(calculateTimeLeft())
-    }, 1000)
+    if (gatheringTime != '') {
+      setTimeout(() => {
+        setTimeLeft(calculateTimeLeft())
+      }, 1000)
+    }
   })
 
   return (
@@ -36,6 +38,7 @@ export const PlayhardModule: React.FC = () => {
         <div className="bg-gradient-to-r flex-wrap flex-row place-items-center from-[#00d4ff] via-[#88a7e1] to-[#ce718e] py-[3em] rounded-[60px] lg:w-[85%] md:w-[80%] sm:w-[85%] w-[95%]">
           <h1 className="font-interbold pb-16 mx-auto md:text-[24px] text-[16px] text-center">
             Friday, 11 November 2022
+            {/* {gatheringDate.toString()} */}
           </h1>
           <div className="flex flex-wrap flex-row place-items-center justify-center lg:gap-2 md:gap-2 sm:gap-1 max-mobile-l:gap-1 gap-1">
             <div className="lg:mr-6 md:mr-6 sm:mr-3 mr-1">
