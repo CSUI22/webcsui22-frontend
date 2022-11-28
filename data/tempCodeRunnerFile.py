@@ -1,0 +1,2 @@
+df.rename(columns={'Media Sosial (Line & Instagram)\nContoh:\nLine: https://line.me/ti/p/Q1hqgliRYf\nInstagram: instagram.com/csui.2022': 'MedSos', 'Deskripsi Singkat\n(Fun Fact atau kalimat bebas yang deskripsiin kamu)':
+#           'Deskripsi Singkat', 'Interest\n(Contoh: Web Dev, UI/UX, Marvel, Valorant.)': 'Interest', 'Pesan untuk CSUI 22\n(Pesan/harapan kamu kedepannya untuk CSUI 22)': 'Pesan buat CSUI22'}, inplace=True)

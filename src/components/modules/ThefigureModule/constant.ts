@@ -17,6 +17,23 @@ export const dataAngkatan = [
     'nama foto': '20220421_205738-2 - Aaron Kwek.jpg',
   },
   {
+    'Nama Lengkap': 'Aaron Mario Lin',
+    'Nama Panggilan': 'Aaron',
+    'Tanggal Lahir': '29 03 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1dmES9XX8qVh-aKGHJhkpruZFr3QXE8eP',
+    MedSos:
+      'Line: http://line.me/ti/p/aaronmlin Instagram: instagram.com/aaronmlin',
+    'Deskripsi Singkat': 'ini dia orangnya',
+    Interest: 'UI/UX, Music, Product Design, Web Dev',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga selamat sampai tujuan!',
+    Line: 'line.me/ti/p/aaronmlin',
+    Instagram: 'instagram.com/aaronmlin',
+    'id foto': '1dmES9XX8qVh-aKGHJhkpruZFr3QXE8eP',
+    'nama foto': 'S__29458439 - Aaron M.jpg',
+  },
+  {
     'Nama Lengkap': 'Abbilhaidar Farras Zulfikar',
     'Nama Panggilan': 'Abbil',
     'Tanggal Lahir': '08/03/2004',
@@ -71,6 +88,23 @@ export const dataAngkatan = [
     'nama foto': '20210629_164355 - Adam Muhammad.jpg',
   },
   {
+    'Nama Lengkap': 'Adnan Alvito Mustaqim',
+    'Nama Panggilan': 'Adnan',
+    'Tanggal Lahir': '21 12 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=16bWhD3MsDN9ybnCuwEHHsE-Mgrn2RgDw',
+    MedSos:
+      'Line: https://line.me/ti/p/4QqrgahA0x Instagram: instagram.com/adnanalvito_',
+    'Deskripsi Singkat': 'cuma ngerti ddp',
+    Interest: 'Code, Music, Game, Kamu',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'jangan jadi kyk gw',
+    Line: 'line.me/ti/p/https://line.me/ti/p/4QqrgahA0x',
+    Instagram: 'instagram.com/adnanalvito_',
+    'id foto': '16bWhD3MsDN9ybnCuwEHHsE-Mgrn2RgDw',
+    'nama foto': 'IMG_9746234 - Adnan Alvito Mustaqim.jpg',
+  },
+  {
     'Nama Lengkap': 'Adrasa Cantya Salaka',
     'Nama Panggilan': 'Aca',
     'Tanggal Lahir': '17/01/2004',
@@ -85,6 +119,22 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/acasalaka',
     'id foto': '1lvJOqaTBJHvY6mSyjNAz4R0kjQwkqiAZ',
     'nama foto': 'E55F8342-AAE4-49CC-9CDD-75318EC58BB0 - Aca Salaka.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Adrial Natanael Liong',
+    'Nama Panggilan': 'Adrial',
+    'Tanggal Lahir': '15 09 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1sgZXjZqbWkC8tj8KNQYz0SM6tnwVzCfv',
+    MedSos: 'Line :',
+    'Deskripsi Singkat': 'Orang biasa',
+    Interest: 'Web Dev, Data Science',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga semuanya dapat menjalankan kuliah dengan lancar!',
+    Line: '',
+    Instagram: '',
+    'id foto': '1sgZXjZqbWkC8tj8KNQYz0SM6tnwVzCfv',
+    'nama foto': 'foto diri - Adrial Natanael Liong.jpg',
   },
   {
     'Nama Lengkap': 'Adrian Aryaputra Hamzah',
@@ -123,6 +173,22 @@ export const dataAngkatan = [
     'nama foto': 'PAS Foto Afsar Rakha F - Afsar Rakha F.jpg',
   },
   {
+    'Nama Lengkap': 'Aggitya Yosafat Hutabarat',
+    'Nama Panggilan': 'Agit',
+    'Tanggal Lahir': '15 12 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1aaiCJvys6Uh9j-bIQpkOiy-7NLdoMKJ1',
+    MedSos: 'instagram.com/aggitya.yosafat',
+    'Deskripsi Singkat': 'baik dan sayang orangtua, meski jarang menabung',
+    Interest: 'nontonin orang makan sambil makan',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'solid tapi jangan pelid',
+    Line: '',
+    Instagram: 'instagram.com/aggitya.yosafat',
+    'id foto': '1aaiCJvys6Uh9j-bIQpkOiy-7NLdoMKJ1',
+    'nama foto': '5D120066-D81C-4FDB-AACA-E52B23B0BB3F - Aggitya Yosafat.jpg',
+  },
+  {
     'Nama Lengkap': 'Ahmad Fatih Faizi',
     'Nama Panggilan': 'Faizi',
     'Tanggal Lahir': '03/09/2004',
@@ -156,6 +222,22 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/akmalr76',
     'id foto': '1fSNiOeS4GMm1kob0n1Kxw3i8INCozQ7t',
     'nama foto': 'Foto Profil - Akmal Ramadhan.JPG',
+  },
+  {
+    'Nama Lengkap': 'Alden Luthfi A',
+    'Nama Panggilan': 'Upi',
+    'Tanggal Lahir': '10 02 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1Cy3cyi24kKCkWmOuhQDIMNfzao8hLVwb',
+    MedSos: 'mamles, contact me later',
+    'Deskripsi Singkat': 'Fun fact gw kidal',
+    Interest: 'Movies, Programming, Cyber Security',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga fullteam sampe lulus amiin',
+    Line: '',
+    Instagram: '',
+    'id foto': '1Cy3cyi24kKCkWmOuhQDIMNfzao8hLVwb',
+    'nama foto': 'recpro - Alden Luthfi Arrahman.png',
   },
   {
     'Nama Lengkap': 'Aldyandry Nureza Phutra',
@@ -258,6 +340,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/alifahafidz_',
     'id foto': '1EZolBY2f8a1wb31lkqQP3qgisd1gwLiL',
     'nama foto': '1666622176900 - Alifa Muhammad Hafidz.jpg',
+  },
+  {
+    'Nama Lengkap': 'Aliyah Faza Qinthara',
+    'Nama Panggilan': 'Alin',
+    'Tanggal Lahir': '6 08 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1UVmQdM0BxJmpMuvZGhwPcW-fCbiqnzvX',
+    MedSos: 'Instagram: instagram.com/a.lin___',
+    'Deskripsi Singkat': 'Alin. Just Alin. NOT Aljabar Linear.',
+    Interest: 'Data Science, Performing Arts, Badminton, You',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga CSUI 22 semuanya lulus tepat waktu, IPK 4, keluar keluar sukses brutal kaya raya. Aamiin',
+    Line: '',
+    Instagram: 'instagram.com/a.lin___',
+    'id foto': '1UVmQdM0BxJmpMuvZGhwPcW-fCbiqnzvX',
+    'nama foto':
+      '9B30173A-97FE-4E75-9F40-822AA02E117E - Aliyah Faza Qinthara.jpeg',
   },
   {
     'Nama Lengkap': 'Alizza Deli Satria',
@@ -434,6 +533,24 @@ export const dataAngkatan = [
     'nama foto': 'image_2022-10-16_164527940 - Andhika Reihan.png',
   },
   {
+    'Nama Lengkap': 'Andi Salsabila Ardian',
+    'Nama Panggilan': 'Sasha',
+    'Tanggal Lahir': '4 09 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=19VKgmiclQVCMnUu1kkRRl2aAIL-oeH8Z',
+    MedSos: 'line: http://line.me/ti/p/andi-saa instagram: instagram.com/',
+    'Deskripsi Singkat':
+      'sebenernya habitatnya di soshum tapi kedampar di cs gapapa kok gapapa bgt im definitely not holding any tears as i write this (boong)',
+    Interest:
+      'Web Dev, UI/UX, AI/ML, Game Dev, Data Science, Mobile Legends, Fallen London, Art',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'goodluck kedepannya!! <3 semoga bisa survive bareng',
+    Line: 'line.me/ti/p/andi-saa',
+    Instagram: 'instagram.com/',
+    'id foto': '19VKgmiclQVCMnUu1kkRRl2aAIL-oeH8Z',
+    'nama foto': '70D295B0-8813-421A-865E-F6756CECC6D2 - andi -saa.JPG',
+  },
+  {
     'Nama Lengkap': 'Andika Pramudya Wardana',
     'Nama Panggilan': 'Dika',
     'Tanggal Lahir': '30/10/2004',
@@ -518,6 +635,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/arianans06',
     'id foto': '1X9JyXwXCNSUxOTwFRV4SuorBPA-g6xUF',
     'nama foto': 'IMG_20201109_161508_881 - Ariana Syabandini.jpg',
+  },
+  {
+    'Nama Lengkap': 'Arinda Pusparani Jatmiko',
+    'Nama Panggilan': 'Arinda',
+    'Tanggal Lahir': '1 03 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1tLSVnNJAgYDbgxo0xlAlgITXCSVh0XlW',
+    MedSos:
+      'Line: https://line.me/ti/p/MKQTAhf8jT Instagram: instagram.com/arindapusparani',
+    'Deskripsi Singkat': 'sebenernya mageran',
+    Interest: 'UI/UX, Product Management',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semangat terus ya',
+    Line: 'line.me/ti/p/MKQTAhf8jT',
+    Instagram: 'instagram.com/arindapusparani',
+    'id foto': '1tLSVnNJAgYDbgxo0xlAlgITXCSVh0XlW',
+    'nama foto': '13A2018A-C218-4E7E-B837-E52CE64A39A4 - Arinda Pusparani.jpeg',
   },
   {
     'Nama Lengkap': 'Arini Widya Pramesti',
@@ -607,6 +741,24 @@ export const dataAngkatan = [
     'nama foto': '20221011_060834 - Arya Lesmana.jpg',
   },
   {
+    'Nama Lengkap': 'Asadilhaq Elqudsi Prabowo',
+    'Nama Panggilan': 'Adil',
+    'Tanggal Lahir': '4 02 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1Gz4mbvwKJVBkkwPKEKO1pZI8GVN0DJVE',
+    MedSos: 'Instagram: instagram.com/hoshirozora',
+    'Deskripsi Singkat':
+      'Seorang yang udah wibu sejak kelas 5 SD dan suka banget sama otomotif',
+    Interest:
+      'Telemedicine, Valorant, Honkai Impact 3rd, Genshin Impact, Vtuber, Anime, Light Novel, Gitar',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'CSUI 2022 harus lulus bareng-bareng nanti',
+    Line: '',
+    Instagram: 'instagram.com/hoshirozora',
+    'id foto': '1Gz4mbvwKJVBkkwPKEKO1pZI8GVN0DJVE',
+    'nama foto': 'IMG-20220731-WA0005 - Asadilhaq E.P.jpg',
+  },
+  {
     'Nama Lengkap': 'Athillah Irham Fairuzzaki',
     'Nama Panggilan': 'Faiz',
     'Tanggal Lahir': '31/08/2004',
@@ -677,6 +829,23 @@ export const dataAngkatan = [
     'nama foto': 'IMG-20220816-WA0050 - Austin Susanto.jpg',
   },
   {
+    'Nama Lengkap': 'Axel Ilham Gunardi',
+    'Nama Panggilan': 'Axel',
+    'Tanggal Lahir': '18 04 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=13opUVRVdwLp69qRQJjb51pE3NO-Gm9FQ',
+    MedSos:
+      'line: https://line.me/ti/p/h1vedp8Hwd instagram:  https://www.instagram.com/ilham_xell_',
+    'Deskripsi Singkat': 'orangnya santai',
+    Interest: 'Cyber Security, Game Dev, mobile legend',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga angkatan 22 lulus tepat waktu dan tetep solid',
+    Line: 'line.me/ti/p/h1vedp8Hwd',
+    Instagram: 'instagram.com/ilham_xell_',
+    'id foto': '13opUVRVdwLp69qRQJjb51pE3NO-Gm9FQ',
+    'nama foto': 'WhatsApp Image 2022-11-08 at 8.10.13 PM - Axel.jpeg',
+  },
+  {
     'Nama Lengkap': 'Ayu Siti Nasya Ningrum',
     'Nama Panggilan': 'Nasya',
     'Tanggal Lahir': '31/03/2004',
@@ -694,6 +863,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/nasyaayu31',
     'id foto': '1HDcOfuiUF5PclpmA8tgQ6qebfiFLaN-4',
     'nama foto': 'S__909335 - Ayu Siti Nasya Ningrum.jpg',
+  },
+  {
+    'Nama Lengkap': 'Ayundha Sachi Mulia',
+    'Nama Panggilan': 'Sachi',
+    'Tanggal Lahir': '25 04 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=11qLlT5PwZS3anC2-_-KMTYaQJnNQ3ee0',
+    MedSos:
+      'Line: https://line.me/ti/p/BIJw5X_1bQ     and instagram: instagram.com/sachimulia',
+    'Deskripsi Singkat': 'Kucing aku ada 15 ekor',
+    Interest: 'Teh tarik',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Jangan lupa tidur',
+    Line: 'line.me/ti/p/BIJw5X_1bQ',
+    Instagram: 'instagram.com/sachimulia',
+    'id foto': '11qLlT5PwZS3anC2-_-KMTYaQJnNQ3ee0',
+    'nama foto': 'DSC_1730 - Ayundha Mulia.jpg',
   },
   {
     'Nama Lengkap': 'Azka Nydia Estiningtyas',
@@ -783,6 +969,24 @@ export const dataAngkatan = [
     'nama foto': '69331 - Bryan Jeshua.jpg',
   },
   {
+    'Nama Lengkap': 'Bulan Athaillah Permata Wijaya',
+    'Nama Panggilan': 'Bulan',
+    'Tanggal Lahir': '20 02 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1wpS3thUdW_9dswrxozbcaz4b3SebrHkj',
+    MedSos:
+      'Instagram: instagram.com/bulaaaann, Line: https://line.me/ti/p/_HALCpa4AI',
+    'Deskripsi Singkat':
+      'kalo suka sama suatu lagu yang diputer itu terus sampe muak',
+    Interest: 'UI/UX, Web Dev, Product Management, AI/ML, K-Pop, Films, F1',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga bisa solid sampai akhir dan bisa berkembang bersama di sini :)',
+    Line: 'line.me/ti/p/https://line.me/ti/p/_HALCpa4AI',
+    Instagram: 'instagram.com/bulaaaann',
+    'id foto': '1wpS3thUdW_9dswrxozbcaz4b3SebrHkj',
+    'nama foto': '561302 - bulan a.jpg',
+  },
+  {
     'Nama Lengkap': 'Caesar Justitio',
     'Nama Panggilan': 'Cais',
     'Tanggal Lahir': '07/03/2003',
@@ -815,6 +1019,22 @@ export const dataAngkatan = [
     Instagram: '',
     'id foto': '10wTSHyZqkjL-ekI1CsDavKdL055JqUXv',
     'nama foto': 'pas irs - Caesar Ramadhan.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Calista Sekar Pamaja',
+    'Nama Panggilan': 'calista',
+    'Tanggal Lahir': '26 03 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=15luW2jKY6KDIYe01l1xnWpTTQHLyWrI5',
+    MedSos: 'instagram.com/caalistas',
+    'Deskripsi Singkat': 'suka dessert',
+    Interest: 'data science and many more (lagi explore)',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga csui 22 bisa berhasil ngegapai impiannyaa masing-masing',
+    Line: '',
+    Instagram: 'instagram.com/caalistas',
+    'id foto': '15luW2jKY6KDIYe01l1xnWpTTQHLyWrI5',
+    'nama foto': '0983E6A4-DDC7-45C6-AABF-1D8A9F748E4D - Calista Sekar.jpeg',
   },
   {
     'Nama Lengkap': 'Caressa Putri Yuliantoro',
@@ -906,6 +1126,23 @@ export const dataAngkatan = [
     'nama foto': '06B6FFB4-D183-4B23-A110-FB2593D12CAB - Cheeryl Aisyah.jpeg',
   },
   {
+    'Nama Lengkap': 'Chelsea Angelica',
+    'Nama Panggilan': 'Chelsea',
+    'Tanggal Lahir': '28 11 2005',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=11ZxCkWVxwRdwTyJackXxOxDUmT6ZPf0O',
+    MedSos:
+      'Line: http://line.me/ti/p/ceci_28     Instagram: instagram.com/redvelfoot',
+    'Deskripsi Singkat': 'Selalu sendawa setiap habis makan atau minum',
+    Interest: 'Art, Creative Industry, Business Marketing, and Sport',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga selalu saling bantu satu sama lain!',
+    Line: 'line.me/ti/p/ceci_28',
+    Instagram: 'instagram.com/redvelfoot',
+    'id foto': '11ZxCkWVxwRdwTyJackXxOxDUmT6ZPf0O',
+    'nama foto': 'F2D38E5C-892B-4C1F-976E-6FB18233BA50 - Chelsea A.jpeg',
+  },
+  {
     'Nama Lengkap': 'Chika Marsya Diandra Lumban Gaol',
     'Nama Panggilan': 'Chika',
     'Tanggal Lahir': '25/10/2004',
@@ -942,6 +1179,24 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/citraandh',
     'id foto': '1_naiJL60R0zuPbBsIajYMF2ipZIwb6uD',
     'nama foto': 'IMG_507 - Citra Andini Hermawan.jpg',
+  },
+  {
+    'Nama Lengkap': 'Clarence Grady',
+    'Nama Panggilan': 'Clarence',
+    'Tanggal Lahir': '1 11 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1KL0gl97wytrxNJMEerFOL6ZGIqr4Mb0V',
+    MedSos:
+      'https://line.me/ti/p/08hVOpl-P7 , https://www.instagram.com/clarencegradyy/',
+    'Deskripsi Singkat': 'Suka Main tenis meja, tinggal di Jakarta',
+    Interest:
+      'Game Development (GameDev), Valorant, Ping pong, Marvel, Movie, Music',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga CSUI 2022 baik-baik aja dan semua lulus tepat waktu dengan nilai yang cukup baik',
+    Line: 'line.me/ti/p/08hVOpl-P7',
+    Instagram: 'instagram.com/clarencegradyy/',
+    'id foto': '1KL0gl97wytrxNJMEerFOL6ZGIqr4Mb0V',
+    'nama foto': 'foto3 - Clarence Grady.jpg',
   },
   {
     'Nama Lengkap': 'Clarista',
@@ -1207,6 +1462,24 @@ export const dataAngkatan = [
     'nama foto': 'IMG_20221006_170743 (2) - Dhafin Kamal.jpg',
   },
   {
+    'Nama Lengkap': 'Dhemas Wicaksono Nugroho',
+    'Nama Panggilan': 'Dhemas',
+    'Tanggal Lahir': '25 03 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1V3MrjuGEuG5r2dC_QkBbTv_gK8VND5MG',
+    MedSos:
+      'Id line : https://line.me/ti/p/IxPfHd5Ui0    instagram : instagram.com/dhemaswicaksono',
+    'Deskripsi Singkat': 'Hobi tidur',
+    Interest:
+      'UI/UX, Game dev, Data science, Data analyst, ,Anime, Final Fantasy, Musik',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'CSUI 22 jaya jaya jaya',
+    Line: 'line.me/ti/p/line',
+    Instagram: 'instagram.com/dhemaswicaksono',
+    'id foto': '1V3MrjuGEuG5r2dC_QkBbTv_gK8VND5MG',
+    'nama foto': '20201206_160010 - Dhemas Wicaksono.jpg',
+  },
+  {
     'Nama Lengkap': 'Dian Fathur Rahman',
     'Nama Panggilan': 'Fathur',
     'Tanggal Lahir': '18/08/2004',
@@ -1435,6 +1708,22 @@ export const dataAngkatan = [
     'nama foto': 'copyfoto - Erstevan Almeida.jpg',
   },
   {
+    'Nama Lengkap': "Eryanda Arian Ro'uuf",
+    'Nama Panggilan': 'er eryan eryanda terserah dah',
+    'Tanggal Lahir': '19 01 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1ev8hJce0mQc7zIrDwp1VhYnQ52GoG-39',
+    MedSos: '@earianr1901',
+    'Deskripsi Singkat': 'Banyak, males ceritain',
+    Interest: 'Web Dev',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Tetep solid, kompak, dan semoga semua bisa survive sampe lulus .',
+    Line: '',
+    Instagram: 'instagram.com/earianr1901',
+    'id foto': '1ev8hJce0mQc7zIrDwp1VhYnQ52GoG-39',
+    'nama foto': 'IMG-20221110-WA0001 - eryanda arian.jpg',
+  },
+  {
     'Nama Lengkap': 'Eryawan Presma Yulianrifat',
     'Nama Panggilan': 'Eryaw',
     'Tanggal Lahir': '05/07/2004',
@@ -1630,6 +1919,23 @@ export const dataAngkatan = [
     'nama foto': 'WhatsApp Image 2022-09-28 at 8.37.49 AM - PhanTem.jpeg',
   },
   {
+    'Nama Lengkap': 'Fariska Fedira Ardhanariswari',
+    'Nama Panggilan': 'Fariska',
+    'Tanggal Lahir': '3 03 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1kA7uElC8y72yXbERffykA8Z0WWDBPFjp',
+    MedSos:
+      'Line: https://line.me/ti/p/SmwtStgw_0 Instagram: instagram.com/fariskafedira',
+    'Deskripsi Singkat': '',
+    Interest: 'Cyber Security',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga bisa survive bareng-bareng',
+    Line: 'line.me/ti/p/SmwtStgw_0',
+    Instagram: 'instagram.com/fariskafedira',
+    'id foto': '1kA7uElC8y72yXbERffykA8Z0WWDBPFjp',
+    'nama foto': 'B403EB8D-FDBD-4BD5-A240-80F50C550FE5 - Fariska Fedira.jpeg',
+  },
+  {
     'Nama Lengkap': 'Farrel Ayman Abisatyo',
     'Nama Panggilan': 'Fayman',
     'Tanggal Lahir': '01/09/2004',
@@ -1663,6 +1969,24 @@ export const dataAngkatan = [
     'id foto': '1oe5K-MnfVBIzJOD_FmFTwrt0f0Jra5Gm',
     'nama foto':
       'AD520A2E-4EBC-4BBC-993C-2B41321D7CFD - Farrell Muhammad Hanau.png',
+  },
+  {
+    'Nama Lengkap': 'Fathan Naufal Adhitama',
+    'Nama Panggilan': 'Fathan',
+    'Tanggal Lahir': '8 04 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1Rjik_sm9D_BERGZndukIx5SUutCIU5TO',
+    MedSos:
+      'Line: https://line.me/ti/p/5gqSwB2qfJ Instagram: instagram.com/fathan_adhitama',
+    'Deskripsi Singkat': 'yaudah lah ya',
+    Interest: '10%',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga keren terus',
+    Line: 'line.me/ti/p/5gqSwB2qfJ',
+    Instagram: 'instagram.com/fathan_adhitama',
+    'id foto': '1Rjik_sm9D_BERGZndukIx5SUutCIU5TO',
+    'nama foto':
+      'WhatsApp Image 2022-07-21 at 14.55.16 - Fathan Naufal Adhitama.jpg',
   },
   {
     'Nama Lengkap': 'Fathi Qushoyyi Ahimsa',
@@ -1735,6 +2059,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/fatihradityap/',
     'id foto': '1aoWdFn58vWiQU9eQxm1FmhEWTUHWQ5Sw',
     'nama foto': 'WIN_20210719_09_24_25_Pro - Fatih Radit.jpg',
+  },
+  {
+    'Nama Lengkap': 'Fayya Salwa Azheva',
+    'Nama Panggilan': 'Fayya',
+    'Tanggal Lahir': '19 02 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1ADkgC5rh-3sWUgzJbEZl3NfeukPxJkK6',
+    MedSos: 'instagram.com/fayyava',
+    'Deskripsi Singkat': 'bubur bayi addict',
+    Interest: 'UI/UX, Project Manager, Cat, Cooking, Music, Guittar, You',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'keren selalu deh',
+    Line: '',
+    Instagram: 'instagram.com/fayyava',
+    'id foto': '1ADkgC5rh-3sWUgzJbEZl3NfeukPxJkK6',
+    'nama foto':
+      'A7B0BE3B-4F87-483F-AD2D-3FFEAB0163CE - Fayya Salwa Azheva.jpeg',
   },
   {
     'Nama Lengkap': 'Fazle Ilahi Bimo Aji',
@@ -1960,6 +2301,23 @@ export const dataAngkatan = [
     'nama foto': 'IMG20220809115208 - Gabriella Naomi.jpg',
   },
   {
+    'Nama Lengkap': 'Galen Taris Bariqi',
+    'Nama Panggilan': 'Galen',
+    'Tanggal Lahir': '10 02 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=12_vRvpw2f90kc1cigEfZL70c55uFa9_J',
+    MedSos:
+      'Line : https://line.me/ti/p/83EW3u2F6w   Instagram : http://instagram.com/galentaris/',
+    'Deskripsi Singkat': 'short term memory',
+    Interest: 'Data Science, Genshin impact',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'print("survive")',
+    Line: 'line.me/ti/p/https://line.me/ti/p/83EW3u2F6w',
+    Instagram: 'instagram.com/galentaris/',
+    'id foto': '12_vRvpw2f90kc1cigEfZL70c55uFa9_J',
+    'nama foto': '1667910188195 - Galen Taris.jpg',
+  },
+  {
     'Nama Lengkap': 'Gamma Farrel',
     'Nama Panggilan': 'Gamma',
     'Tanggal Lahir': '08/01/2004',
@@ -1974,6 +2332,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/gammafarrel',
     'id foto': '1fAuS73X0chGsSZnzwRKGruxW3WgvcGE6',
     'nama foto': '613BE9EA-BE61-4E06-95BE-4545B243A4A8 - Gamma Farrel.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Georgina Elena Shinta Dewi Achti',
+    'Nama Panggilan': 'Elena',
+    'Tanggal Lahir': '6 06 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1HBrBJDORezO9KCq05EbYA09qUK5KwejN',
+    MedSos:
+      'Line : https://line.me/ti/p/2iYCGhM-L3 , Instagram : instagram.com/elenageorgina7',
+    'Deskripsi Singkat': 'masuk pacil tapi suka joged (dance) dan nyanyi<3',
+    Interest: 'Dance, K-Pop, UI/UX',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'kalo cape bobo dulu, kalo engga lanjut begadang😄🔥✨',
+    Line: 'line.me/ti/p/https://line.me/ti/p/2iYCGhM-L3',
+    Instagram: 'instagram.com/elenageorgina7',
+    'id foto': '1HBrBJDORezO9KCq05EbYA09qUK5KwejN',
+    'nama foto': 'foto_elena - Georgina Elena Shinta Dewi Achti.jpg',
   },
   {
     'Nama Lengkap': 'Ghaisan Luqyana Aqila',
@@ -1992,6 +2367,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/ghaisan_la',
     'id foto': '1k_MsrInKcIE6wK_xIgMsgWBFaaA4Qbbx',
     'nama foto': 'IMG-20220531-WA0009 - Ghaisan Luqyana Aqila.jpg',
+  },
+  {
+    'Nama Lengkap': 'Ghana Ahmada Yudistira',
+    'Nama Panggilan': 'Ghana',
+    'Tanggal Lahir': '21 09 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1t3HpTOQ-hYVu6BXmet3CyIKo6VI2KeQW',
+    MedSos:
+      'Line : http://line.me/ti/p/~ghanahmada | Instagram : instagram.com/ghanahmada',
+    'Deskripsi Singkat': 'dulu suka ml sekarang suka ml',
+    Interest: 'Data Science, Nonton Bola & Kdrama',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'CSUI 22 SOLID TERUS!!',
+    Line: 'line.me/ti/p/~ghanahmada',
+    Instagram: 'instagram.com/ghanahmada',
+    'id foto': '1t3HpTOQ-hYVu6BXmet3CyIKo6VI2KeQW',
+    'nama foto': 'FOTO_BIRU_ZOOM - Ghana Ahmada.png',
   },
   {
     'Nama Lengkap': 'Ghania Larasati Nurjayadi Putri',
@@ -2084,6 +2476,22 @@ export const dataAngkatan = [
       'WhatsApp Image 2022-08-28 at 11.12.11 AM (1) - Gregorius Samuel.jpeg',
   },
   {
+    'Nama Lengkap': 'Gyanamurti Adhikara Bano',
+    'Nama Panggilan': 'Gyan',
+    'Tanggal Lahir': '9 10 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1lEFtpZUOTH91o4Kork8yksNIQxNWi4gE',
+    MedSos: 'Line: gyanbano09 Instagram: instagram.com/gyan.bano',
+    'Deskripsi Singkat': 'Trying to survive in Fasilkom UI',
+    Interest: 'Software Developer, F1',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Jaya!',
+    Line: 'line.me/ti/p/gyanbano09',
+    Instagram: 'instagram.com/gyan.bano',
+    'id foto': '1lEFtpZUOTH91o4Kork8yksNIQxNWi4gE',
+    'nama foto': 'Pas Foto Gyanamurti - Gyanamurti Adhikara Bano (Gyan).jpg',
+  },
+  {
     'Nama Lengkap': 'Haffie',
     'Nama Panggilan': 'hafi',
     'Tanggal Lahir': '13/03/2004',
@@ -2118,6 +2526,24 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/hanan_adp',
     'id foto': '1E9G9Xk0jqvQrdvJgwQNBm5xOhPK7xjKq',
     'nama foto': 'usajcjkabkc - hanan adipratama.png',
+  },
+  {
+    'Nama Lengkap': 'Harjuno Abdullah',
+    'Nama Panggilan': 'Juno',
+    'Tanggal Lahir': '28 01 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1tkxRcKcvNctOkcF5LQOKVd_xvGS6C8e_',
+    MedSos:
+      'Line: http://line.me/ti/p/junoabd Instagram: http://instagram.com/hrjuno_',
+    'Deskripsi Singkat':
+      'Fun Factnya selalu bingung klo disuruh ngisi fun fact.',
+    Interest: 'UI/UX, Movies, Filmmaking, Metalcore',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Bismillah.',
+    Line: 'line.me/ti/p/junoabd',
+    Instagram: 'instagram.com/hrjuno_',
+    'id foto': '1tkxRcKcvNctOkcF5LQOKVd_xvGS6C8e_',
+    'nama foto': 'photo_2022-10-02_09-38-10 - Harjuno.jpg',
   },
   {
     'Nama Lengkap': 'Henry Soedibjo',
@@ -2192,6 +2618,22 @@ export const dataAngkatan = [
     'nama foto': '1662456190036 - Hilmy Ammar Darmawan.jpg',
   },
   {
+    'Nama Lengkap': 'Humam Al Labib',
+    'Nama Panggilan': 'Humam',
+    'Tanggal Lahir': '30 12 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1KQlWQXJL0yauAwx9-NEWH8oQpeVFZNT8',
+    MedSos: 'ID Line : humamlabib     Instagram : @humam.labib',
+    'Deskripsi Singkat': 'Gampang tidur',
+    Interest: 'Game dev, anime, game',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga csui22 semakin mantap ke depannya',
+    Line: '',
+    Instagram: '',
+    'id foto': '1KQlWQXJL0yauAwx9-NEWH8oQpeVFZNT8',
+    'nama foto': 'tes - Humam Al-Labib.jpg',
+  },
+  {
     'Nama Lengkap': 'I Made Surya Anahata Putra',
     'Nama Panggilan': 'Surya',
     'Tanggal Lahir': '06/08/2022',
@@ -2245,6 +2687,25 @@ export const dataAngkatan = [
     'nama foto': 'Informal Foto - Ilham Abdillah Alhamdi.jpeg',
   },
   {
+    'Nama Lengkap': 'Indira Arifia Rahmah',
+    'Nama Panggilan': 'Indira',
+    'Tanggal Lahir': '10 12 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1uMbwFbQ-D2TVQvy2dkbo2ZIUOlfbFApQ',
+    MedSos:
+      'Line: https://line.me/ti/p/-o0PaQZQ4V    Instagram: instagram.com/indiraarh',
+    'Deskripsi Singkat':
+      'Suka menulis dan mengambil foto. Biru adalah warna favorit dan sering mendengar musik instrumental. Memiliki ketertarikan untuk berpartisipasi dalam sebuah tim penggerak, seperti pengabdian masyarakat.',
+    Interest:
+      'Business management, Web Dev, Project Management, Research, Voluntary Activities, Literature.',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Saling supportif dan jangan ragu untuk saling mengenal.',
+    Line: 'line.me/ti/p/https://line.me/ti/p/-o0PaQZQ4V',
+    Instagram: 'instagram.com/indiraarh',
+    'id foto': '1uMbwFbQ-D2TVQvy2dkbo2ZIUOlfbFApQ',
+    'nama foto': 'IMG_20221109_203748 - Indira Rahmah.jpg',
+  },
+  {
     'Nama Lengkap': 'Iqza Ardiansyah',
     'Nama Panggilan': 'Iqza',
     'Tanggal Lahir': '13/09/2004',
@@ -2279,6 +2740,24 @@ export const dataAngkatan = [
     'nama foto': 'Irfan Kamil 3x4 (1) - Irfan Kmil.jpg',
   },
   {
+    'Nama Lengkap': 'Irsyad Fadhilah',
+    'Nama Panggilan': 'Icad',
+    'Tanggal Lahir': '7 04 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1EjW8PENtQ5aa2ZCKJfucZMMk9RKWLiQO',
+    MedSos:
+      'Line : https://line.me/ti/p/irsyad072004 , Instagram : instagram.com/Irsyadfdhlh',
+    'Deskripsi Singkat':
+      'Suka banget olahraga, gasuka pedes & duren , adaptive di setiap lingkungan 👍✌',
+    Interest: 'Data Science, Sports, Efootball',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga makin solid & lulus bareng² di 2026 AMIN',
+    Line: 'line.me/ti/p/irsyad072004',
+    Instagram: 'instagram.com/Irsyadfdhlh',
+    'id foto': '1EjW8PENtQ5aa2ZCKJfucZMMk9RKWLiQO',
+    'nama foto': 'Compress_20221006_131904_4075 - Irsyad Fadhilah.jpg',
+  },
+  {
     'Nama Lengkap': 'Irvan Rizqy Kusuma',
     'Nama Panggilan': 'Irvan',
     'Tanggal Lahir': '16/07/2004',
@@ -2295,6 +2774,22 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/irvan.r.k',
     'id foto': '1fgTqPJe7ul_oixvDt1Cfbaw6lLcXEA1e',
     'nama foto': 'Screenshot_20221009_202948 - Irvan Rizqy.jpg',
+  },
+  {
+    'Nama Lengkap': 'James Samuel Widjaja',
+    'Nama Panggilan': 'Sammy',
+    'Tanggal Lahir': '22 07 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1WymJpPoyWTDXkwXj3B8Ckimg7VYDzJqx',
+    MedSos: 'Line: Samuelwidjajaa - Instagram: samuellwidjaja',
+    'Deskripsi Singkat': 'wijaya jaya jaya',
+    Interest: 'janda',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga moga moga',
+    Line: 'line.me/ti/p/samuellwidjaja',
+    Instagram: 'instagram.com/samuellwidjaja',
+    'id foto': '1WymJpPoyWTDXkwXj3B8Ckimg7VYDzJqx',
+    'nama foto': '1668004380759 - Samey.jpg',
   },
   {
     'Nama Lengkap': 'James Zefanya Tumbelaka',
@@ -2576,6 +3071,23 @@ export const dataAngkatan = [
     'nama foto': 'IMG_20220707_184601_329 - Kelvin Saputra.jpg',
   },
   {
+    'Nama Lengkap': 'Ken Balya',
+    'Nama Panggilan': 'Ken',
+    'Tanggal Lahir': '27 11 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1wej0k58n6O3kl3wie_K4lpKmWBchxClD',
+    MedSos: 'Line : ceboarmyindonesia Instagram: @ken.balya',
+    'Deskripsi Singkat':
+      'Golongan darah gw B tapi entah kenapa di KTP ditulisnya 0 :)',
+    Interest: 'Software Development: Data Structures and Algorithm',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Hidup ini ujian, tapi kalo mahasiswa ujiannya kebanyakan',
+    Line: '',
+    Instagram: 'instagram.com/@ken.balya',
+    'id foto': '1wej0k58n6O3kl3wie_K4lpKmWBchxClD',
+    'nama foto': 'IMG_20221108_191540_246 - Ken Balya.jpg',
+  },
+  {
     'Nama Lengkap': 'Kenichi Komala',
     'Nama Panggilan': 'Ken',
     'Tanggal Lahir': '17/05/2004',
@@ -2660,6 +3172,24 @@ export const dataAngkatan = [
     'nama foto': 'ED8CB21D-2BC6-48B6-9BA6-5F216268FBAD - Kezia Lasma.jpeg',
   },
   {
+    'Nama Lengkap': 'Kezia Natalia Theodora Napitupulu',
+    'Nama Panggilan': 'Kezia',
+    'Tanggal Lahir': '4 12 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1Wi-4z08Cm1kjY7ZA83rqTV6FpRE-Ij0S',
+    MedSos:
+      'Line: https://line.me/ti/p/XL136o5r9g, Instagram: instagram.com/keziaa_nataliaa',
+    'Deskripsi Singkat': 'aku capek terus',
+    Interest:
+      'Product Management, UI/UX, Project Manager, Music, Films & TV Series',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga solid terus dan bisa lulus bareng-bareng!!',
+    Line: 'line.me/ti/p/https://line.me/ti/p/XL136o5r9g',
+    Instagram: 'instagram.com/keziaa_nataliaa',
+    'id foto': '1Wi-4z08Cm1kjY7ZA83rqTV6FpRE-Ij0S',
+    'nama foto': '1663339285612.897 (1) - Kezia Natalia Theodora N..JPG',
+  },
+  {
     'Nama Lengkap': 'Khair Juzaili',
     'Nama Panggilan': 'Khair',
     'Tanggal Lahir': '15/03/2001',
@@ -2726,6 +3256,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/kilau.akhyaari',
     'id foto': '1yS7E63-s2tUrA1oqT7IPmQbASv0g0FaP',
     'nama foto': '3477380D-9314-4548-91C8-9C2063685A5F - Kilau Akhyaari.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Kristoforus Adi Himawan',
+    'Nama Panggilan': 'Awan',
+    'Tanggal Lahir': '28 05 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1yGsZEmZxwHiBNl9wLc86q7yiNk7l0XpN',
+    MedSos:
+      'Line: https://line.me/ti/p/dan6SAmLX- dan Instagram: https://www.instagram.com/adihimawan_/?igshid=YmMyMTA2M2Y%3D',
+    'Deskripsi Singkat': 'Sering sepedaan ke kampus 🚴',
+    Interest: 'Data Science, Sepak Bola, Basket, Musik',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Siapa yang bersungguh-sungguh, maka ia akan berhasil 👍',
+    Line: 'line.me/ti/p/https://www.instagram.com/adihimawan_/?igshid=YmMyMTA2M2Y%3D',
+    Instagram: 'instagram.com/adihimawan_/?igshid=YmMyMTA2M2Y%3D',
+    'id foto': '1yGsZEmZxwHiBNl9wLc86q7yiNk7l0XpN',
+    'nama foto': 'Foto Biodata - Kristoforus Adi Himawan.jpg',
   },
   {
     'Nama Lengkap': 'Lidwina Eurora Firsta Nobella',
@@ -2942,6 +3489,25 @@ export const dataAngkatan = [
       'WhatsApp Image 2021-12-09 at 5.07.42 PM - Mariano Senduk.jpeg',
   },
   {
+    'Nama Lengkap': 'Mario Michael Jeremy Sitanggang',
+    'Nama Panggilan': 'Mario',
+    'Tanggal Lahir': '2 01 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1vA3IkvLPvwM0qu7hBHXEX1PaYp8ED7Tz',
+    MedSos:
+      'Line: https://line.me/ti/p/JshoqFoaDz                 Instagram: https://www.instagram.com/mariomichaelll/',
+    'Deskripsi Singkat':
+      'Mau nyari kantong ajaib Doraemon terus bantuin Kera Sakti nyari kitab suci lalu nemenin Naruto ngalahin Madara biar dia jadi Hokage',
+    Interest:
+      "Web & Mob Dev, AI, IoT, CODM, Ardhito Pramono's music, Chelsea, Photography, Reading, Movie",
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga CSUI 22 bisa terus solid & saling suportif dan kedepannya bisa jadi orang yang berguna untuk bangsa dan negara asik',
+    Line: 'line.me/ti/p/JshoqFoaDz',
+    Instagram: 'instagram.com/mariomichaelll/',
+    'id foto': '1vA3IkvLPvwM0qu7hBHXEX1PaYp8ED7Tz',
+    'nama foto': 'foto_michael - Mario Michael Jeremy Sitanggang.jpg',
+  },
+  {
     'Nama Lengkap': 'Marsya Rahmadani',
     'Nama Panggilan': 'Marsya',
     'Tanggal Lahir': '12/11/2003',
@@ -2958,6 +3524,22 @@ export const dataAngkatan = [
     'id foto': '1D8s6DUGEHIgnhrPzlF8Zafv-021A3Qrw',
     'nama foto':
       'Screenshot_2022-10-16-14-53-44-44_99c04817c0de5652397fc8b56c3b3817 - Marsya Rahmadani.jpg',
+  },
+  {
+    'Nama Lengkap': 'Marvel Martin Everthard',
+    'Nama Panggilan': 'Marvel',
+    'Tanggal Lahir': '17 03 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1z7_4ltbfOFEWHkVFO6gzfjQu9TEpUstg',
+    MedSos: 'http://line.me/ti/p/marvelmartin & instagram.com/marvel_martin',
+    'Deskripsi Singkat': 'muda foya-foya, tua kaya raya, mati masuk surga',
+    Interest: 'Music, Film',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga sehat selalu semuanya',
+    Line: 'line.me/ti/p/marvelmartin',
+    Instagram: 'instagram.com/marvel_martin',
+    'id foto': '1z7_4ltbfOFEWHkVFO6gzfjQu9TEpUstg',
+    'nama foto': 'Foto - Marvel Martin.jpg',
   },
   {
     'Nama Lengkap': 'Masabil Arraya Muhammad',
@@ -3044,6 +3626,24 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/maurice_yang',
     'id foto': '1vjEvdLSN2r9Bds_wZoSF8CeVfBVGtoBj',
     'nama foto': '__next_static_media_hero-img.d40de04a - Maurice Yang.png',
+  },
+  {
+    'Nama Lengkap': 'Melvara Zafirah Ramsi',
+    'Nama Panggilan': 'Elva',
+    'Tanggal Lahir': '27 12 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1PaVrQJel0sl6pjh6YZbQoF8ety2IUKyZ',
+    MedSos:
+      'Line: https://line.me/ti/p/kmKsRwXd9_ , Instagram: instagram.com/melvarazr',
+    'Deskripsi Singkat':
+      'Kusuka warna PINK! yang gasuka warna pink kita gatemen:)',
+    Interest: 'Basketball, Travelling, UI/UX, Semua yang warna pink',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Hari sabtu pergi ke ancol, semoga lulus tepat waktu all',
+    Line: 'line.me/ti/p/kmKsRwXd9_',
+    Instagram: 'instagram.com/melvarazr',
+    'id foto': '1PaVrQJel0sl6pjh6YZbQoF8ety2IUKyZ',
+    'nama foto': '204E1122-BA2C-4171-927B-70F9A15AE7FE - Melvara Zafirah.jpeg',
   },
   {
     'Nama Lengkap': 'Michael Marcellino Satyanegara',
@@ -3341,6 +3941,25 @@ export const dataAngkatan = [
     'nama foto': '0040594440 - Muhammad Fachrudin.jpg',
   },
   {
+    'Nama Lengkap': 'Muhammad Faishal Adly Nelwan',
+    'Nama Panggilan': 'Pesol',
+    'Tanggal Lahir': '11 08 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1w8W5Y0t2Z83YOh2eXqLaOgyGvLmLbAz9',
+    MedSos:
+      'Line: https://line.me/ti/p/JxrMy1na0v instagram: https://www.instagram.com/faishalnelwan/',
+    'Deskripsi Singkat': 'mahasiswa yang perlu kurangin fomonya',
+    Interest:
+      'UI/UX, Software Engineering, Web Dev, Entrepreneur, E-Commerce, Being Rich',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga angkatan yang sukses dan solid terus ke depannya',
+    Line: 'line.me/ti/p/JxrMy1na0v',
+    Instagram: 'instagram.com/faishalnelwan/',
+    'id foto': '1w8W5Y0t2Z83YOh2eXqLaOgyGvLmLbAz9',
+    'nama foto':
+      'A0F92F3B-8F53-47FD-A222-468A1D5EC7E1 - Muhammad Faishal Adly Nelwan.jpeg',
+  },
+  {
     'Nama Lengkap': 'Muhammad Fakhri Robbani',
     'Nama Panggilan': 'Fakhri',
     'Tanggal Lahir': '01/10/2004',
@@ -3515,6 +4134,25 @@ export const dataAngkatan = [
     'nama foto': 'IMG_2747 - Hilal Fauzan.jpg',
   },
   {
+    'Nama Lengkap': 'Muhammad Hilmy Abdul Aziz',
+    'Nama Panggilan': 'Hillmy',
+    'Tanggal Lahir': '30 09 2005',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1-xv3vtT16LkEWTjYkQH5-z5DBOsI_7wo',
+    MedSos:
+      'Line: https://line.me/ti/p/eKSTrugSag  Instagram:https://instagram.com/hilmy_aaaaaaa',
+    'Deskripsi Singkat':
+      'ಠಿ⁠_⁠ಠ   (⁠●⁠_⁠_⁠●⁠)\nFun fact: I definitely am not a skin walker pretending to be a human',
+    Interest: 'Game dev, manga, finding a reason to continue',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'I hope nothing bad happens like a national tragedy',
+    Line: 'line.me/ti/p/Instagram:https://instagram.com/hilmy_aaaaaaa',
+    Instagram: 'instagram.com/hilmy_aaaaaaa',
+    'id foto': '1-xv3vtT16LkEWTjYkQH5-z5DBOsI_7wo',
+    'nama foto':
+      'Screenshot_2022-11-09-14-54-51-66 - Muhammad Hilmy Abdul Aziz.jpg',
+  },
+  {
     'Nama Lengkap': 'Muhammad Hilmy Erryanto',
     'Nama Panggilan': 'Hilmy',
     'Tanggal Lahir': '22/01/2004',
@@ -3531,6 +4169,23 @@ export const dataAngkatan = [
     'id foto': '13cxmyzsG0Zql8oD3Ibyw6bdjjPLkDMb9',
     'nama foto':
       'WhatsApp Image 2022-10-16 at 7.08.26 AM - Muhammad Hilmy.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Muhammad Ilham Zikri',
+    'Nama Panggilan': 'ilam',
+    'Tanggal Lahir': '7 05 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1XDn0zF-C3YHZIsvNuVDp7zs2iff0BEOn',
+    MedSos: 'instagram.com/ilhamzik',
+    'Deskripsi Singkat':
+      'mau ini heran tapi atau apa celana miskin frestea campur semen tiga roda yahahaY',
+    Interest: 'football',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga kompak trs dan bisa menjadi',
+    Line: '',
+    Instagram: 'instagram.com/ilhamzik',
+    'id foto': '1XDn0zF-C3YHZIsvNuVDp7zs2iff0BEOn',
+    'nama foto': 'EC77FABA-1933-4B2F-9B88-F90CD2C36F3C - Ilhamzik.jpeg',
   },
   {
     'Nama Lengkap': 'Muhammad Irfan Firmansyah',
@@ -3921,6 +4576,23 @@ export const dataAngkatan = [
     'nama foto': '294c347a-bd4c-4984-89ff-61c81e53e30e-1 - Muzaki Ahmad.jpg',
   },
   {
+    'Nama Lengkap': 'Nabiel Ahmad Ardhityo',
+    'Nama Panggilan': 'Biel',
+    'Tanggal Lahir': '16 11 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1MPJnQibxx4CqrKZjWt_G9jdF5H7Icswx',
+    MedSos:
+      'Instagram : instagram.com/nabielardhityo_  Line : https://line.me/ti/p/VNvoLwgo_a',
+    'Deskripsi Singkat': 'Suka ayam dallas',
+    Interest: 'Twice',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Iloveyou',
+    Line: 'line.me/ti/p/VNvoLwgo_a',
+    Instagram: 'instagram.com/nabielardhityo_',
+    'id foto': '1MPJnQibxx4CqrKZjWt_G9jdF5H7Icswx',
+    'nama foto': '9F3502B9-941F-43A4-A2F3-30923A9A29D0 - Nabiel Ahmad.jpeg',
+  },
+  {
     'Nama Lengkap': 'Nabil Nazir Ahmad',
     'Nama Panggilan': 'Nabil',
     'Tanggal Lahir': '13/05/2004',
@@ -3955,6 +4627,23 @@ export const dataAngkatan = [
     'nama foto': 'foto bella - Nabila Zavira.jpg',
   },
   {
+    'Nama Lengkap': 'Nadhira Raihana Hafez',
+    'Nama Panggilan': 'Nadhira',
+    'Tanggal Lahir': '5 06 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1CWpCMmG4wllfugogrk6W1PrfIjSJzcbp',
+    MedSos:
+      'Line: https://line.me/ti/p/uNaZqrts6X Instagram: instagram.com/nadhirahafez',
+    'Deskripsi Singkat': '',
+    Interest: 'Web Dev, Cyber Security',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semangat kuliahnya, semoga lulus tepat waktu, and wishing you guys the best of luck!🤞',
+    Line: 'line.me/ti/p/uNaZqrts6X',
+    Instagram: 'instagram.com/nadhirahafez',
+    'id foto': '1CWpCMmG4wllfugogrk6W1PrfIjSJzcbp',
+    'nama foto': '175631 - Nadhira Raihana.jpg',
+  },
+  {
     'Nama Lengkap': 'Nadhira Widyaniswari',
     'Nama Panggilan': 'Nadhira',
     'Tanggal Lahir': '8 03 2004',
@@ -3969,6 +4658,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/nadhiraniswari',
     'id foto': '1CG70QD3ur0DwEKyjlGBAIuTYZDDCFSBX',
     'nama foto': 'IMG_20221014_175746_434 - Nadhira Widyaniswari.jpg',
+  },
+  {
+    'Nama Lengkap': 'Nadya Aysha',
+    'Nama Panggilan': 'nadya',
+    'Tanggal Lahir': '7 04 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1ad-GfQMLbsLUP7v0GnZPVJBgFjZ9OM2w',
+    MedSos: 'line: nadyaaaaa07 ig: nadyaysha',
+    'Deskripsi Singkat':
+      'pov: kita ngedate di lantai 7 kki terus lompat bareng <3',
+    Interest: 'data science, kaya raya, rock music/ bands, ngayal',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'pengen tau berapa orang yang bakal tumbang (termasuk saya)',
+    Line: 'line.me/ti/p/nadyaaaaa07',
+    Instagram: 'instagram.com/',
+    'id foto': '1ad-GfQMLbsLUP7v0GnZPVJBgFjZ9OM2w',
+    'nama foto': 'Screenshot_20221109-202831_Gallery - Nadya Aysha.jpg',
   },
   {
     'Nama Lengkap': 'Nanda Nathaniela Meizari',
@@ -4183,6 +4889,22 @@ export const dataAngkatan = [
     'nama foto': 'IMG-20221015-WA0056 - Itqon Nibras.jpg',
   },
   {
+    'Nama Lengkap': 'Nibras Itqon Ihsani',
+    'Nama Panggilan': 'Nibras',
+    'Tanggal Lahir': '7 06 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1smETRJkglBMu73rJEcpqXVqde6MAw_pz',
+    MedSos: 'line : itqonibras ig : @itqonibras',
+    'Deskripsi Singkat': 'dikira sombong padahal malu🤭',
+    Interest: 'CODM, UI/UX, graphic design',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'makin2 dah pokoknya',
+    Line: '',
+    Instagram: 'instagram.com/ine : itqonibras ig : @itqonibras',
+    'id foto': '1smETRJkglBMu73rJEcpqXVqde6MAw_pz',
+    'nama foto': 'IMG-20221015-WA0056 - Itqon Nibras.jpg',
+  },
+  {
     'Nama Lengkap': 'Novita Mulia Sari',
     'Nama Panggilan': 'Novita',
     'Tanggal Lahir': '28/11/2003',
@@ -4302,6 +5024,22 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/oeyjojo',
     'id foto': '1f3wkGXyvkbjZ6qBlf8JD10eNCUZoQzy0',
     'nama foto': '1665068182344@2x - Joshua Jodrian.jpg',
+  },
+  {
+    'Nama Lengkap': 'Omar Khalif Muchzi',
+    'Nama Panggilan': 'Omar',
+    'Tanggal Lahir': '2 08 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1xByO28sGcBBquVWLqf3NwtmpCKxs7rKw',
+    MedSos: 'Ig : omarkhalif._',
+    'Deskripsi Singkat': 'Sering ngaret',
+    Interest: 'Musik, Anime, Video Game',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Solid terus',
+    Line: '',
+    Instagram: 'instagram.com/rkhalif._',
+    'id foto': '1xByO28sGcBBquVWLqf3NwtmpCKxs7rKw',
+    'nama foto': 'IMG_5062 - Omar Khalif.jpg',
   },
   {
     'Nama Lengkap': 'Patrick Samuel Evans Simanjuntak',
@@ -4425,6 +5163,24 @@ export const dataAngkatan = [
     'nama foto': '20221024_195736 - XII IPA 4_RACHEL MATHILDA.jpg',
   },
   {
+    'Nama Lengkap': 'Rafael Bismo Dewandaru',
+    'Nama Panggilan': 'Rafael',
+    'Tanggal Lahir': '29 02 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1A7JTJQKEjBWuKnQNUqAMNMttnNryGJAD',
+    MedSos:
+      'Line : https://line.me/ti/p/WCsaWU8GCH Instagram : instagram.com/rafaeldewandaru',
+    'Deskripsi Singkat': 'i like to eat',
+    Interest: 'Web Dev, Sports, Chess, Anime',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga tetap sehat mental sampai lulus',
+    Line: 'line.me/ti/p/https://line.me/ti/p/WCsaWU8GCH',
+    Instagram: 'instagram.com/rafaeldewandaru',
+    'id foto': '1A7JTJQKEjBWuKnQNUqAMNMttnNryGJAD',
+    'nama foto':
+      '34DD8843-B154-4EE7-8F11-3A13D1FEE9BE - Rafael B. Dewandaru.jpeg',
+  },
+  {
     'Nama Lengkap': 'Rafah Azizah',
     'Nama Panggilan': 'Rafah',
     'Tanggal Lahir': '13/04/2004',
@@ -4442,6 +5198,40 @@ export const dataAngkatan = [
     'nama foto': '3752036F-C924-4B6B-80DE-F8BA16CEDFD5 - Rafah Azizah.jpeg',
   },
   {
+    'Nama Lengkap': 'Rafi Ardiel Erinaldi',
+    'Nama Panggilan': 'Rafi',
+    'Tanggal Lahir': '19 05 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1QdvbJz65Ov1ZjzDgIXf2L-qIDC2CcfPc',
+    MedSos: 'instagram: instagram.com/fiardiel',
+    'Deskripsi Singkat':
+      'Suka musik sama main CS:GO. Demen matematika sama ngoding juga. Punya peliharaan monyet setiabudi namanya Aqmal',
+    Interest: 'Data science, CS:GO, Music',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga makin solid, makin kenal dan deket sama temen2 barunya',
+    Line: '',
+    Instagram: 'instagram.com/fiardiel',
+    'id foto': '1QdvbJz65Ov1ZjzDgIXf2L-qIDC2CcfPc',
+    'nama foto': 'IMG_2670-min-2_11zon - Rafi Ardiel Erinaldi.jpg',
+  },
+  {
+    'Nama Lengkap': 'Rafi Ghani Harditama',
+    'Nama Panggilan': 'Ghani/Rafi',
+    'Tanggal Lahir': '23 03 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1W8kDxPhFSMW1eLIbKNKh6_uK2bZd2mhw',
+    MedSos:
+      'Instagram : instagram.com/rafighani._ Line : https://line.me/ti/p/xu1i18tnxR',
+    'Deskripsi Singkat': 'ngantoek',
+    Interest: 'Football, AI, Game',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semangat CSUI 22! semoga survive dan lulus tepat waktu',
+    Line: 'line.me/ti/p/xu1i18tnxR',
+    Instagram: 'instagram.com/rafighani._',
+    'id foto': '1W8kDxPhFSMW1eLIbKNKh6_uK2bZd2mhw',
+    'nama foto': 'WhatsApp Image 2022-11-08 at 22.54.22 - Rafi Ghani.jpeg',
+  },
+  {
     'Nama Lengkap': 'Rafi Irsyad Saharso',
     'Nama Panggilan': 'Rafi',
     'Tanggal Lahir': '06/04/2004',
@@ -4457,6 +5247,22 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/rafiirsyaadss',
     'id foto': '1m1hrc4bYODJXbhPUHmUFSFcDJYsLEb3C',
     'nama foto': 'potopoto - rafi irsyad.jpg',
+  },
+  {
+    'Nama Lengkap': 'Rafif Firmansyah Aulia',
+    'Nama Panggilan': 'Rafif',
+    'Tanggal Lahir': '5 09 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=15CdlSA9k23ifWk8Kmb1hFT3gYymBfzna',
+    MedSos: 'instagram.com/rafiffirmansyah_',
+    'Deskripsi Singkat': 'Manusia, bukan wayang kulit',
+    Interest: 'Musik, Web Dev, Dota 2',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga angkatannya makin asik',
+    Line: '',
+    Instagram: 'instagram.com/rafiffirmansyah_',
+    'id foto': '15CdlSA9k23ifWk8Kmb1hFT3gYymBfzna',
+    'nama foto': '2608EA13-D8E3-40F6-9963-E75D333B6451 - Rafif Aulia.jpeg',
   },
   {
     'Nama Lengkap': 'Rafli Aditya Shaista',
@@ -4510,6 +5316,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/raisadndr',
     'id foto': '1ZEj_EOBXI_Pa335OWc4ER38khaJBCaWk',
     'nama foto': '44C2352D-0C58-4696-9A8D-D0671620AE6F - Raisa Diandra.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Raisa Fadilla',
+    'Nama Panggilan': 'Raisa',
+    'Tanggal Lahir': '1 10 2005',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1_hXNsVX58wBua6BxurYLI_xcMcmvH6Rv',
+    MedSos:
+      'Line : https://line.me/ti/p/DOoPin_ao_ Instagram : instagram.com/raisaafadilla',
+    'Deskripsi Singkat': 'isfj',
+    Interest: 'Data Science, Artificial Intelligence, Music, Netflix',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semoga kuliahnya lancar sampe lulus!!',
+    Line: 'line.me/ti/p/DOoPin_ao_',
+    Instagram: 'instagram.com/raisaafadilla',
+    'id foto': '1_hXNsVX58wBua6BxurYLI_xcMcmvH6Rv',
+    'nama foto': 'IMG_8824 (1) - Raisa Fadilla.jpg',
   },
   {
     'Nama Lengkap': 'Raisa Hannaliya Zahra',
@@ -4763,6 +5586,22 @@ export const dataAngkatan = [
     'nama foto': 'res - Restu Ahmad Ar Ridho.jpg',
   },
   {
+    'Nama Lengkap': 'Revaldy Hafizhy Mukhtar',
+    'Nama Panggilan': 'Hafiz',
+    'Tanggal Lahir': '16 12 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=15TdA9hWJWoov1OSWWwmAzb00eP3Vzcc5',
+    MedSos: 'http://line.me/ti/p/hafiz163 http://instagram.com/revaldihfz',
+    'Deskripsi Singkat': 'Gw gak suka nasi, sukanya ngaret',
+    Interest: 'Web Dev, Anime, Music, Video Games, History',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Sukses untuk semuanya sesuai jalannya masing masing',
+    Line: 'line.me/ti/p///line.me/ti/p/hafiz163',
+    Instagram: 'instagram.com/revaldihfz',
+    'id foto': '15TdA9hWJWoov1OSWWwmAzb00eP3Vzcc5',
+    'nama foto': 'Screenshot_20221109_233713 - Revaldy.jpg',
+  },
+  {
     'Nama Lengkap': 'Reyhan Wiyasa Puspanegara',
     'Nama Panggilan': 'Reyhan',
     'Tanggal Lahir': '15/06/2003',
@@ -4849,6 +5688,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/rick.seth_',
     'id foto': '11CMIa9WpiQNGH5k7K1tUjiD7WHjWdduX',
     'nama foto': '20220706_204001-min - Rick S.jpg',
+  },
+  {
+    'Nama Lengkap': 'Rifat Fauzan',
+    'Nama Panggilan': 'Rifat',
+    'Tanggal Lahir': '8 03 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=123dv_33rPde_rWaorgQJ7mQR79MqJPoq',
+    MedSos:
+      'Line: https://line.me/ti/p/M4ymJik6Cb Instagram: https://www.instagram.com/rifatfauzannn',
+    'Deskripsi Singkat': 'print("Aqmal Monyet Setiabudi")',
+    Interest: 'Al Quran Nur Karim, Data Science',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga makin asik angkatannya 🔥🔥🔥🔥',
+    Line: 'line.me/ti/p/M4ymJik6Cb',
+    Instagram: 'instagram.com/rifatfauzannn',
+    'id foto': '123dv_33rPde_rWaorgQJ7mQR79MqJPoq',
+    'nama foto': 'Sabab - Rifat Fauzan.jpg',
   },
   {
     'Nama Lengkap': 'Rifda Aulia Nurbahri',
@@ -4955,6 +5811,41 @@ export const dataAngkatan = [
     'nama foto': 'IMG_20220601_234603_312 - Rizky Prawira N.jpg',
   },
   {
+    'Nama Lengkap': 'Rizqi Bayu Utama',
+    'Nama Panggilan': 'Bayu',
+    'Tanggal Lahir': '1 04 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1PKLrsWnq_8B-UoYWMVayWDMqY8uNyIEQ',
+    MedSos: 'https://www.instagram.com/rbayuu/',
+    'Deskripsi Singkat': 'print("Aku sayang Kamu',
+    Interest: 'Web Dev, CP, Tidur, Makan',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Solid terus ya!',
+    Line: '',
+    Instagram: 'instagram.com/rbayuu/',
+    'id foto': '1PKLrsWnq_8B-UoYWMVayWDMqY8uNyIEQ',
+    'nama foto': 'GUEH - Rizqi Bayu.png',
+  },
+  {
+    'Nama Lengkap': 'Rizvanu Satrio Nugroho',
+    'Nama Panggilan': 'Haykal',
+    'Tanggal Lahir': '22 06 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1ji5oy5UMIIVjIBx4OCQ6pNYTC3scfX5L',
+    MedSos:
+      'Line : https://line.me/ti/p/LxII5E_VAt Instagram : instagram.com/haykalsn',
+    'Deskripsi Singkat':
+      'Halo namanya rizvanu satrio nugroho tapi panggilannya ganyambung haykal',
+    Interest: 'Games, Project manager, music, film',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga kedepannya makin keren dan solid',
+    Line: 'line.me/ti/p/LxII5E_VAt',
+    Instagram: 'instagram.com/haykalsn',
+    'id foto': '1ji5oy5UMIIVjIBx4OCQ6pNYTC3scfX5L',
+    'nama foto':
+      '6A3DE73F-526E-4605-A876-2983E2B24085_1_201_a - Rizvanu Nugroho.jpeg',
+  },
+  {
     'Nama Lengkap': 'Robert Benyamin',
     'Nama Panggilan': 'Robert',
     'Tanggal Lahir': '13/06/2004',
@@ -5029,6 +5920,25 @@ export const dataAngkatan = [
     'nama foto': 'IMG_1531 - Sabina Maritza Moenzil.JPG',
   },
   {
+    'Nama Lengkap': 'Sabrina Atha Shania',
+    'Nama Panggilan': 'Tata',
+    'Tanggal Lahir': '1 08 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1-PY7Ltrj4vWRWwv00tOgJMXPkOurNgfK',
+    MedSos:
+      'line = https://line.me/ti/p/sabrinaatha0108 instagram = instagram.com/atha.shn',
+    'Deskripsi Singkat':
+      'Suka kamu 😍 tapi boong, lebih suka tidur sih anaknya',
+    Interest:
+      'UI/UX, System Analyst, Project Manager, Sleeping, Music, Business Intelligence (BI), Game Development (GameDev), Knowledge Management, Debating, Chilling',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Never give in guys!!!! 💙❤️',
+    Line: 'line.me/ti/p/=',
+    Instagram: 'instagram.com/atha.shn',
+    'id foto': '1-PY7Ltrj4vWRWwv00tOgJMXPkOurNgfK',
+    'nama foto': 'WhatsApp Image 2022-11-08 at 18.43.12 - Sabrina Atha. S.jpeg',
+  },
+  {
     'Nama Lengkap': 'Sabrina Aviana Dewi',
     'Nama Panggilan': 'Sabrina',
     'Tanggal Lahir': '12/01/2004',
@@ -5096,6 +6006,22 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/salsabila.aulia',
     'id foto': '1UxSlve3NnB--98rUiAFsX1DEkTKhvkfX',
     'nama foto': '9BEC29C1-E6E2-465D-B1A2-8132DE4239B4 - Salsabila Aulia.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Samuel Farrel Bagasputra',
+    'Nama Panggilan': 'Samfar',
+    'Tanggal Lahir': '3 12 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1sj2weopnt-OMEAtOcERHtL2n0haeeBbK',
+    MedSos: 'instagram.com/samfarrr',
+    'Deskripsi Singkat': 'print ("gabisa coding")',
+    Interest: 'Data Science, Automotive, Computer',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'semangat dan solid selalu ¡!',
+    Line: '',
+    Instagram: 'instagram.com/samfarrr',
+    'id foto': '1sj2weopnt-OMEAtOcERHtL2n0haeeBbK',
+    'nama foto': 'S__68853776 - Samuel Farrel.jpg',
   },
   {
     'Nama Lengkap': 'Samuel Taniel Mulyadi',
@@ -5350,6 +6276,22 @@ export const dataAngkatan = [
     'nama foto': 'WhatsApp Image 2022-08-17 at 4.34.07 PM - Sita Amira.jpeg',
   },
   {
+    'Nama Lengkap': 'Soros Febriano',
+    'Nama Panggilan': 'Soros',
+    'Tanggal Lahir': '21 02 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1P2oIp-DLe3tr0axvPvKn_-ndgLDqrLXK',
+    MedSos: 'https://www.instagram.com/soros_febriano/',
+    'Deskripsi Singkat': 'kece',
+    Interest: 'Makan',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semangat',
+    Line: '',
+    Instagram: 'instagram.com/soros_febriano/',
+    'id foto': '1P2oIp-DLe3tr0axvPvKn_-ndgLDqrLXK',
+    'nama foto': '20220228_155336 - Copy (2) - Soros Febriano.jpg',
+  },
+  {
     'Nama Lengkap': 'Sri Saraswati Widhisari',
     'Nama Panggilan': 'Saras',
     'Tanggal Lahir': '04/08/2004',
@@ -5559,6 +6501,22 @@ export const dataAngkatan = [
       'WhatsApp Image 2022-09-27 at 20.55.39 - 29 Thaariq Kurnia.jpeg',
   },
   {
+    'Nama Lengkap': 'Thariq Ziyad Al Farizi',
+    'Nama Panggilan': 'Thariq',
+    'Tanggal Lahir': '4 08 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=15SgB03olsIkWRSkUeeBYZAW66L3lFnTs',
+    MedSos: 'https://www.instagram.com/thariqziyaad/?hl=id',
+    'Deskripsi Singkat': 'Orang Sumatra yang nyasar ke Depok',
+    Interest: 'UI/UX',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Solid dan terus melangkah membawa perubahan',
+    Line: '',
+    Instagram: 'instagram.com/thariqziyaad/?hl=id',
+    'id foto': '15SgB03olsIkWRSkUeeBYZAW66L3lFnTs',
+    'nama foto': 'Screenshot 2022-09-27 155626 - Thariq ziyad.png',
+  },
+  {
     'Nama Lengkap': 'Theodore Kasyfillah',
     'Nama Panggilan': 'Teddy',
     'Tanggal Lahir': '06/07/2004',
@@ -5593,6 +6551,22 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/falinnoss',
     'id foto': '16ri1kCbL2lNvDHGhqEXDFCyuVW9lGe8a',
     'nama foto': '2BEBD8A3-14C2-4F3E-8F83-2D714D010719 - falinno abdi.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Thifaalinno Fawwaz Abdi',
+    'Nama Panggilan': 'falinno',
+    'Tanggal Lahir': '20 12 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=10bph_5oiVgGIomgusdWyxHWNdUFiHgEX',
+    MedSos: 'instagram.com/falinnoss',
+    'Deskripsi Singkat': 'mahasiswa sistem informasi',
+    Interest: 'nature',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'smoga menjadi angkatan sipaling asik',
+    Line: '',
+    Instagram: 'instagram.com/falinnoss',
+    'id foto': '10bph_5oiVgGIomgusdWyxHWNdUFiHgEX',
+    'nama foto': '020601DB-AF9B-4DDD-882B-BDB7A3F1A5D4 - falinno abdi.jpeg',
   },
   {
     'Nama Lengkap': 'Thirza Ahmad Tsaqif',
@@ -5683,6 +6657,25 @@ export const dataAngkatan = [
     'nama foto': '003A0497-5995-446A-B408-CB7EE8DE7C9F - Venedict Chen.jpeg',
   },
   {
+    'Nama Lengkap': 'Veronica Kylie',
+    'Nama Panggilan': 'Kylie',
+    'Tanggal Lahir': '1 07 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1gyAkORQX6y-uQZx1LUEIhd8WHsIaDgB5',
+    MedSos:
+      'Line: https://line.me/ti/p/b4s8t8Lwyr || Instagram: instagram.com/vk_kai17',
+    'Deskripsi Singkat':
+      'Aku adalah introvert yang senang menyamar jadi extrovert. Aku suka banget sama makan, kalau stress pasti bawaannya mau makan yang banyak. Tetapi, aku tidak terlalu suka makanan manis.',
+    Interest:
+      'Artificial Intelligence, Robotic, Game Development, Mobile Development, machine learning, eating, cooking, K-POP.',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Masuk bareng, lulus bareng',
+    Line: 'line.me/ti/p/instagram.com/vk_kai17',
+    Instagram: 'instagram.com/vk_kai17',
+    'id foto': '1gyAkORQX6y-uQZx1LUEIhd8WHsIaDgB5',
+    'nama foto': 'IMG-20220717-WA0000 - Veronica Kylie.jpg',
+  },
+  {
     'Nama Lengkap': 'Vico Adli Narindra',
     'Nama Panggilan': 'Vico',
     'Tanggal Lahir': '18/07/2004',
@@ -5717,6 +6710,25 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/vincent_suhardi',
     'id foto': '102agvwOht12Cjf5G8AGT3aotcVmsVz9B',
     'nama foto': 'IMG20220913214413_11zon - Vincent Suhardi.jpg',
+  },
+  {
+    'Nama Lengkap': 'Vincent Suhardi',
+    'Nama Panggilan': 'Vincent',
+    'Tanggal Lahir': '15 02 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1OS8z-AdmxFasTdTQkqZaiSbZ_a3DqMEo',
+    MedSos:
+      'Line: https://line.me/ti/p/liferren Instagram: instagram.com/vincent_suhardi',
+    'Deskripsi Singkat':
+      'Meskipun tidak kelihatan, gw merupakan orang yang gila, introvert, dan wibu yang sedang mencari mimpinya dan tujuannya di Fasilkom. Ingin sekali mendalami hal-hal yang memiliki hubungan dengan Artificial Intelligence dan juga Data. My goal, make my parents proud and bring glory to the family while making myself happy.',
+    Interest:
+      'Artificial Intelligence, Data Science, Internet of Things, Technology, Manga, Music, Genshin Impact, Brawlhalla, Girls',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Saya berharap agar angkatan CSUI 22 dapat menjadi lebih memiliki rasa kekeluargaan antara sesama, mantap',
+    Line: 'line.me/ti/p/https://line.me/ti/p/liferren',
+    Instagram: 'instagram.com/vincent_suhardi',
+    'id foto': '1OS8z-AdmxFasTdTQkqZaiSbZ_a3DqMEo',
+    'nama foto': 'IMG_20220928_161640 - Vincent Suhardi.jpg',
   },
   {
     'Nama Lengkap': 'Virgillia Yeala Prabowo',
@@ -5769,6 +6781,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/arumasekarp',
     'id foto': '1G0H04IRb4gUnAn6kflXBD-X6fTLy8YFm',
     'nama foto': '1658489683299 - Aruma Sekar.jpg',
+  },
+  {
+    'Nama Lengkap': 'Wahyu Hidayat',
+    'Nama Panggilan': 'Wahyu',
+    'Tanggal Lahir': '12 11 2003',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1tnMTPFycQg6Az7oxYVcccNR3RtXZU7Bb',
+    MedSos:
+      'Line: http://line.me/ti/p/~wahyuuhidaayat ,Instagram: https://instagram.com/wahyyuhidaayat',
+    'Deskripsi Singkat': 'Fun Fact: Ga bisa naik motor',
+    Interest: 'Web Dev, UI/UX, Data Analyst, Basketball',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'sukses selalu',
+    Line: 'line.me/ti/p/http://line.me/ti/p/~wahyuuhidaayat',
+    Instagram: 'instagram.com/wahyyuhidaayat',
+    'id foto': '1tnMTPFycQg6Az7oxYVcccNR3RtXZU7Bb',
+    'nama foto': 'Photo on 08-11-22 at 7.36 PM - Wahyu Hidayat.JPG',
   },
   {
     'Nama Lengkap': 'Wahyu ridho anggoro',
@@ -5908,6 +6937,22 @@ export const dataAngkatan = [
     'id foto': '1V2Kv6FKKtrxKZDiulYX_XyDaMWeZd8l6',
     'nama foto':
       'WhatsApp Image 2022-10-29 at 11.14.03 - Zaki Baihaqi Harahap.jpeg',
+  },
+  {
+    'Nama Lengkap': 'Zuhdy Nadhif Ayyasy',
+    'Nama Panggilan': 'Ayyasy',
+    'Tanggal Lahir': '1 06 2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=152xyCCXizqXad3K9R-Zx-Iy78z17C1ry',
+    MedSos: 'zzzhdyna',
+    'Deskripsi Singkat': 'YTBJTS',
+    Interest: 'Webdev, Software Engineer',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semangat !!!',
+    Line: '',
+    Instagram: '',
+    'id foto': '152xyCCXizqXad3K9R-Zx-Iy78z17C1ry',
+    'nama foto': 'cropped-01 - Zuhdy Nadhif Ayyasy.jpeg',
   },
   {
     'Nama Lengkap': 'Zulfikar Ahmad Faried Aprian',
