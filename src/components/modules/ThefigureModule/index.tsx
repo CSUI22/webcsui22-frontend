@@ -41,12 +41,12 @@ export const ThefigureModule: React.FC = () => {
           'Nama Panggilan': string
           'Tanggal Lahir': string
           'Foto (.jpg)': string
-          'MedSos': string
+          MedSos: string
           'Deskripsi Singkat': string
-          'Interest': string
+          Interest: string
           'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)': string
-          'Line': string
-          'Instagram': string
+          Line: string
+          Instagram: string
           'id foto': string
           'nama foto': string
         }[]
