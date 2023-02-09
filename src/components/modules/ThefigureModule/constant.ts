@@ -5293,7 +5293,7 @@ export const dataAngkatan = [
     'Foto (.jpg)':
     'https://drive.google.com/file/d/17b_SyIYiibqk6TEqMC1y3dvc-g4J9LJ-/view?usp=sharing',
     MedSos:
-    'line: https://line.me/ti/p/mwVB-9NLaO    ig: instagram.com/williamslm_',
+    'line: https://line.me/ti/p/mwVB-9NLaO   ig: instagram.com/williamslm_',
     'Deskripsi Singkat': 'Nama gw WILLIAM DOANG',
     Interest: 'Web development',
     'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
