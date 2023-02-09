@@ -5287,22 +5287,6 @@ export const dataAngkatan = [
     'id foto': '1OCTmCmkSp4cOHv1MVVTU1acLTfDFUe8I',
   },
   {
-    'Nama Lengkap': 'William',
-    'Nama Panggilan': 'William',
-    'Tanggal Lahir': '30/06/2004',
-    'Foto (.jpg)':
-      'https://drive.google.com/file/d/17b_SyIYiibqk6TEqMC1y3dvc-g4J9LJ-/view?usp=sharing',
-    MedSos:
-      'line: https://line.me/ti/p/mwVB-9NLaO     ig: instagram.com/williamslm_',
-    'Deskripsi Singkat': 'Nama gw WILLIAM DOANG',
-    Interest: 'Web development',
-    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
-      'jangan jadi deadliner 🙏🙏',
-    Line: 'https://line.me/ti/p/mwVB-9NLaO',
-    Instagram: 'instagram.com/williamslm_',
-    'id foto': '1OCTmCmkSp4cOHv1MVVTU1acLTfDFUe8I',
-  },
-  {
     'Nama Lengkap': 'Williams',
     'Nama Panggilan': 'William',
     'Tanggal Lahir': '29/09/2004',
