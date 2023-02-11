@@ -741,6 +741,22 @@ export const dataAngkatan = [
     'nama foto': '20221011_060834 - Arya Lesmana.jpg',
   },
   {
+    'Nama Lengkap': 'Arya Wijaya Kusuma',
+    'Nama Panggilan': 'Arya Wijaya Kusuma',
+    'Tanggal Lahir': '15/06/2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1ufyM7GdKk44pgxK2sgem-9At7v2RsSOQ',
+    MedSos: 'https://www.instagram.com/aryawijayak/',
+    'Deskripsi Singkat': 'cuma punya baju item',
+    Interest: 'UI/UX, Product Design, Product Manager',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'Semoga lulus tepat waktu',
+    Line: '',
+    Instagram: 'https://www.instagram.com/aryawijayak/',
+    'id foto': '1ufyM7GdKk44pgxK2sgem-9At7v2RsSOQ',
+    'nama foto': 'arya - Arya Wijaya Kusuma.jpg',
+  },
+  {
     'Nama Lengkap': 'Asadilhaq Elqudsi Prabowo',
     'Nama Panggilan': 'Adil',
     'Tanggal Lahir': '4 02 2003',
@@ -5865,6 +5881,23 @@ export const dataAngkatan = [
     'nama foto': 'photo_2022-08-17_11-14-50 - Robert Benyamin.jpg',
   },
   {
+    'Nama Lengkap': 'Ruizhi Davin',
+    'Nama Panggilan': 'Davin',
+    'Tanggal Lahir': '04/02/2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1Z3UGnklXKRnIOUBPrJ9VC268tih5CV2G',
+    MedSos: 'line, rhdavin42. Instagram, https://www.instagram.com/rhradavin/',
+    'Deskripsi Singkat':
+      'Mahasiswa semester 1 Sistem Informasi, Universitas Indonesia yang antusias dan bermotivasi tinggi dengan kemampuan kepemimpinan, berpikir kreatif, dan mencari tantangan baru. Memiliki pengalaman dalam berbagai organisasi dan kepanitiaan.',
+    Interest: 'travelling, basket',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'hai csui 22 aku udah seneng bgt karena kita sama sama saling ramah satu sama lainnya, bisa bantu temen2 yg kesulitann. pesan aku semoga kita bisa lulus tepat waktu ya',
+    Line: 'line.me/ti/p/rhdavin42',
+    Instagram: 'instagram.com/rhradavin',
+    'id foto': '1Z3UGnklXKRnIOUBPrJ9VC268tih5CV2G',
+    'nama foto': 'davin - SI UI - Ruizhi Davin.png',
+  },
+  {
     'Nama Lengkap': 'Ryandhika Al Afzal',
     'Nama Panggilan': 'Ryan',
     'Tanggal Lahir': '20/10/2003',
@@ -6377,6 +6410,23 @@ export const dataAngkatan = [
     Instagram: 'instagram.com/syauqi.as',
     'id foto': '1hYZOdCGzCPtjBfYAX37AadZjqT2NVjWa',
     'nama foto': 'IMG-20221010-WA0017 - Syauqi Armanaya Syaki.jpg',
+  },
+  {
+    'Nama Lengkap': 'Syazantri Salsabila',
+    'Nama Panggilan': 'Sasa',
+    'Tanggal Lahir': '08/10/2004',
+    'Foto (.jpg)':
+      'https://drive.google.com/open?id=1ZW178tzdV3d0R0mXT875N6fqVL5KeyzT',
+    MedSos:
+      'Line : https://line.me/ti/p/BQsCOoi7V0 Instagram: https://instagram.com/syazantri?igshid=ZDdkNTZiNTM=',
+    'Deskripsi Singkat': 'Suka kucing',
+    Interest: 'Kucing',
+    'Pesan untuk CSUI 22\n (Pesan/harapan kamu kedepannya untuk CSUI 22)':
+      'hehe',
+    Line: 'line.me/ti/p/BQsCOoi7V0',
+    Instagram: 'instagram.com/syazantri?igshid=ZDdkNTZiNTM=',
+    'id foto': '11ZW178tzdV3d0R0mXT875N6fqVL5KeyzT',
+    'nama foto': 'IMG_20230126_231420_305 - Syazantri Salsabila.jpg',
   },
   {
     'Nama Lengkap': 'Syifa Mahira Rahmah Dharmawan',
